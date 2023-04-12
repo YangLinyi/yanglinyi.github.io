@@ -19,9 +19,18 @@ redirect_from:
 
 I’m a Postdoctoral Associate in the [Westlake NLP group](https://westlakenlp.netlify.app/), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong.
 
-I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. To achieve this goal, I am now working on causality guided methods for NLP and its applications in high-stake domains. Feel free to contact me via [email](https://www.linyi-yang.me/yanglinyi@westlake.edu.cn) if you have any questions about our research work.
+I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. To achieve this goal, I am now working on causality guided methods for NLP and its applications in high-stake domains. Feel free to contact me via [email](yanglinyi@westlake.edu.cn) if you have any questions about our research work.
 
 My research interests lie in Causality and Data-centric AI. 
+
+
+# 🎖 Honors and Awards
+
+- Outstanding Postdoctoral Representative (only one awardee), 2023.
+- Outstanding Postdoc Researcher, 2022.
+- Microsoft Early-Career Rising Star, MSRA, 2022.
+- Outstanding Self-financed Students Abroad, Applicable for Non-CSC PhDs (only one winner in Ireland), 2021.
+- Best Paper Candiadate, CCIS, 2018.
 
 # 🔥 News
 - Area Chair / Senior Programme Committe (SPC): EMNLP-22; IJCAI-23.
@@ -45,16 +54,6 @@ My research interests lie in Causality and Data-centric AI.
 
 
 
-# 🎖 Honors and Awards
-
-- Outstanding Postdoctoral Representative (only one awardee), 2023.
-- Outstanding Postdoc Researcher, 2022.
-- Microsoft Early-Career Rising Star, MSRA, 2022.
-- Outstanding Self-financed Students Abroad, Applicable for Non-CSC PhDs (only one winner in Ireland), 2021.
-- Best Paper Candiadate, CCIS, 2018.
-
-
-
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2020</div><img src='images/500x300.png' height="100%" width="100%"></div></div>
@@ -72,14 +71,15 @@ This paper proposes a novel hierarchical, transformer, multi-task architecture d
 
 <!--
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/FinTrust.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2022</div><img src='images/Fig.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Measuring Consistency in Text-based Financial Forecasting Models**
+**Paper**
 
-Linyi Yang\*, **Yingpeng Ma\***, Yue Zhang
+**Linyi Yang\***, Author\* -> equal contribution
+**Linyi Yang**, Author -> single first
 
-[Paper]() [Code]()
+[Paper]() [Code]() [Slides]() [Video]()...
 </div>
 </div>
 
@@ -96,7 +96,8 @@ ___* denotes equal contribution___
 
 # 💬 Invited Talks
 
-- Apr 23, 2020 1:00 PM, Taipei, WWW-20 Long Paper Talk, [HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction](https://www2020.thewebconf.org/)  |  [Slides](https://www.linyi-yang.me/files/Linyi_WWW20_Draft_Presentation.pdf)
+- Apr 23, 2020 1:00 PM, Taipei, WWW-20 Long Paper Talk, 
+  [HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction](https://www2020.thewebconf.org/)  |  [Slides](https://www.linyi-yang.me/files/Linyi_WWW20_Draft_Presentation.pdf)
 
 
 
