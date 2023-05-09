@@ -26,16 +26,18 @@ My research interests lie in Causality and Data-centric AI.
 
 # 🎖 Honors and Awards
 
-- Outstanding Postdoctoral Representative (only one awardee), 2023.
+- Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
 - Microsoft Early-Career Rising Star, MSRA, 2022.
 - Outstanding Self-financed Students Abroad, Applicable for Non-CSC PhDs (only one winner in Ireland), 2021.
 - Best Paper Candiadate, CCIS, 2018.
 
 # 🔥 News
+- 2023-May 🔥🔥 Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three co-first author papers and one second-author paper).
+- 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 - Area Chair / Senior Programme Committe (SPC): EMNLP-22; IJCAI-23.
 - PC Member/Reviewer: CIKM-20; COLING-20; ACL-21; SIGIR-21; CKIM-21; EMNLP-21; IEEE-Access.
-- 2022-Dec: 🎉🎉 I recieved Outstanding Postdoctoral Fellows from Westlake University (5/600+).
+- 2022-Dec: 🎉🎉 I recieved Outstanding Postdoctoral Fellows from Westlake University and gave a talk as the only postdocral representative.
 - 2022-Sep: 🔥🔥 One paper co-operating with MSRA has been accepted to [NeurIPS 2022](https://arxiv.org/pdf/2208.07204/). The first author was my intern at Westlake University. Big congrats! (core: A*, CCF: A)
 - 2022-Aug:  Two papers (one first-author paper) have been accepted to [COLING 2022](https://coling2022.org/). (core: A, CCF: B)
 - 2022-Mar: One co-first author long paper has been accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference. (core: A*, CCF: A)
