@@ -26,7 +26,7 @@ I am broadly interested in the problem of Data-centric AI and Trustworthy AI, im
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
 - Microsoft Early-Career Rising Star, MSRA, 2022.
-- Outstanding Self-financed Students Abroad, Applicable for Non-CSC PhDs (only one winner in Ireland), 2021.
+- Outstanding Self-financed Students Abroad (Applicable for Non-CSC PhDs; Only One Type-B Winner in Ireland), 2021.
 - Best Paper Candiadate, CCIS, 2018.
 
 # News
@@ -35,11 +35,11 @@ I am broadly interested in the problem of Data-centric AI and Trustworthy AI, im
 - Area Chair / Senior Programme Committe (SPC): EMNLP-22; IJCAI-23.
 - PC Member/Reviewer: CIKM-20; COLING-20; ACL-21; SIGIR-21; CKIM-21; EMNLP-21; IEEE-Access.
 - 2022-Dec: 🎉🎉 I recieved Outstanding Postdoctoral Fellows from Westlake University and gave a talk as the only postdocral representative.
-- 2022-Sep: 🔥🔥 One paper co-operating with MSRA has been accepted to [NeurIPS 2022](https://arxiv.org/pdf/2208.07204/). The first author was my intern at Westlake University. Big congrats! (core: A*, CCF: A)
-- 2022-Aug:  Two papers (one first-author paper) have been accepted to [COLING 2022](https://coling2022.org/). (core: A, CCF: B)
+- 2022-Sep: One paper co-operating with MSRA has been accepted to [NeurIPS 2022](https://arxiv.org/pdf/2208.07204/). The first author was my intern at Westlake University. Big congrats! (core: A*, CCF: A)
+- 2022-Aug: Two papers (one first-author paper) have been accepted to [COLING 2022](https://coling2022.org/). (core: A, CCF: B)
 - 2022-Mar: One co-first author long paper has been accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference. (core: A*, CCF: A)
 - 2022-Jan: One first-author long paper has been accepted to [AAAI 2022](https://www.aaai.org/AAAI22Papers/AAAI-4799.YangL.pdf) (15% acceptance rate). (core: A*, CCF: A)
-- 2022-Jan It’s my great honor to serve as an Area Chair (AC) at EMNLP-22!
+- 2022-Jan Invited to serve as an Area Chair (AC) at EMNLP-22.
 - We start working on tracking the progress in the topic of FinNLP. Feel free to add any relevant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
 - 2021-May: One first-author long paper has been accepted to [ACL 2021](https://2021.aclweb.org/) (21% acceptance rate). (core: A*, CCF: A)
 - 2020-Oct: One first-author long paper has been accepted to [COLING 2020](https://coling2020.org/) (Top 5% submissions). (core: A, CCF: B)
@@ -85,18 +85,6 @@ This paper proposes a novel hierarchical, transformer, multi-task architecture d
  -->
 
 ___* denotes equal contribution___
-
-# 📖 Educations
-- PhD in Artificial Intelligence, 2017 - 2021, University College Dublin
-- MSc in Artificial Intelligence, 2017, University College Dublin
-- BSc in Computer Science, 2016, Harbin Engineering University
-
-
-
-# 💬 Invited Talks
-
-- Apr 23, 2020 1:00 PM, Taipei, WWW-20 Long Paper Talk, 
-  [HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction](https://www2020.thewebconf.org/)  |  [Slides](https://www.linyi-yang.me/files/Linyi_WWW20_Draft_Presentation.pdf)
 
 
 
