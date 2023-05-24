@@ -21,9 +21,6 @@ I’m a Postdoctoral Associate in the [Westlake NLP group](https://westlakenlp.n
 
 I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. To achieve this goal, I am now working on causality guided methods for NLP and its applications in high-stake domains. Feel free to contact me via email if you have any questions about our research work.
 
-My research interests lie in Causality and Data-centric AI. 
-
-
 # Honors and Awards
 
 - Outstanding Postdoctoral Representative, 2023.
