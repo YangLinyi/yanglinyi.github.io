@@ -24,7 +24,7 @@ I am broadly interested in the problem of Data-centric AI and Trustworthy AI, im
 My research interests lie in Causality and Data-centric AI. 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
@@ -32,7 +32,7 @@ My research interests lie in Causality and Data-centric AI.
 - Outstanding Self-financed Students Abroad, Applicable for Non-CSC PhDs (only one winner in Ireland), 2021.
 - Best Paper Candiadate, CCIS, 2018.
 
-# 🔥 News
+# News
 - 2023-May 🔥🔥 Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three co-first author papers and one second-author paper).
 - 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 - Area Chair / Senior Programme Committe (SPC): EMNLP-22; IJCAI-23.
