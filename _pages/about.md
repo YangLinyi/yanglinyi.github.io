@@ -19,7 +19,9 @@ redirect_from:
 
 I’m a Research Assistant Professor in the [Westlake NLP group](https://westlakenlp.netlify.app/), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong.
 
-I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. To achieve this goal, I am now working on causality-guided methods for NLP and its applications in high-stake domains. Feel free to contact me via email if you have any questions about our research work.
+I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. I am now working on causality-guided methods for NLP and its applications in high-stake domains to achieve this goal. Please feel free to email me if you have any questions about our research work.
+
+I am always looking for highly motivated interns with strong programming skills to work with me. If you want to collaborate, please send me an email with your CV.
 
 # Honors and Awards
 
