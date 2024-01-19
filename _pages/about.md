@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a Postdoctoral Associate in the [Westlake NLP group](https://westlakenlp.netlify.app/), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong.
+I’m a Research Assistant Professor in the [Westlake NLP group](https://westlakenlp.netlify.app/), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong.
 
 I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. To achieve this goal, I am now working on causality-guided methods for NLP and its applications in high-stake domains. Feel free to contact me via email if you have any questions about our research work.
 
@@ -29,6 +29,7 @@ I am broadly interested in the problem of Data-centric AI and Trustworthy AI, im
 - Best Paper Candidate, CCIS, 2018.
 
 # News
+- 2024-Jan 🔥🔥 Three papers have been accepted to [ICLR 2024](https://iclr.cc/).
 - 2023-May 🔥🔥 Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three co-first author papers and one second-author paper).
 - 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 - Area Chair / Senior Programme Committee (SPC): EMNLP-22; IJCAI-23.
