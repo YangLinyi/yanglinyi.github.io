@@ -19,9 +19,9 @@ redirect_from:
 
 I’m a Research Assistant Professor in the [Westlake NLP group](https://westlakenlp.netlify.app/), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong.
 
-I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. I am now working on causality-guided methods for NLP and its applications in high-stake domains to achieve this goal. Please feel free to email me if you have any questions about our research work.
+I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. I am now working on causality-guided methods for NLP and its applications in high-stake domains to achieve this goal. Please email me if you have any questions about our research work.
 
-I am always looking for highly motivated interns with strong programming skills to work with me. If you want to collaborate, please send me an email with your CV.
+I always look for highly motivated interns with strong programming skills to work with me. If you want to collaborate, please email me your CV.
 
 # Honors and Awards
 
@@ -44,11 +44,11 @@ I am always looking for highly motivated interns with strong programming skills 
 - 2022-Jan Invited to serve as an Area Chair (AC) at EMNLP-22.
 - We start working on tracking the progress in the topic of FinNLP. Feel free to add any relevant items to [Project Link](https://github.com/YangLinyi/FinNLP-Progress)
 - 2021-May: One first-author long paper has been accepted to [ACL 2021](https://2021.aclweb.org/) (21% acceptance rate). (core: A*, CCF: A)
-- 2020-Oct: One first-author long paper has been accepted to [COLING 2020](https://coling2020.org/) (Top 5% submissions). (core: A, CCF: B)
+- 2020-Oct: One first-author long paper has been accepted to [COLING 2020](https://coling2020.org/) (Oral, Top 5% submissions). (core: A, CCF: B)
 - 2020-Sep: One co-first author resource paper has been accepted to [CIKM 2020](https://www.cikm2020.org/accepted-papers/accepted-resource-track-papers/) (20% acceptance rate). (core: A, CCF: B)
 - 2019-Dec: One first-author long paper has been accepted to [WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/) (19% acceptance rate). (core: A*, CCF: A)
 - 2019-Aug: One first-author long paper has been accepted to [FinNLP Workshop@IJCAI-19](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/) (Oral).
-- 2018-Nov: Our paper won the best paper nomitation at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1) (Best Paper Candiadate).
+- 2018-Nov: Our paper won the best paper nomination at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1) (Best Paper Candidate).
 - 2017-Dec: My first paper was published at [AICS 2017](http://aiai.ucd.ie/aics2017/index.html).
 
 
