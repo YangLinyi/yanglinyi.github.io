@@ -32,6 +32,7 @@ I always look for highly motivated interns with strong programming skills to wor
 
 # News
 - 2024-Jan 🔥🔥 Three papers have been accepted to [ICLR 2024](https://iclr.cc/).
+- 2023-Dec One paper has been accepted to [EMNLP 2023](https://2023.emnlp.org/).
 - 2023-May 🔥🔥 Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three co-first author papers and one second-author paper).
 - 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 - Area Chair / Senior Programme Committee (SPC): EMNLP-22; IJCAI-23.
@@ -64,7 +65,7 @@ I always look for highly motivated interns with strong programming skills to wor
 
 **Linyi Yang**, James Ng, Ruihai Dong, Barry Smyth
 
-This paper proposes a novel hierarchical, transformer, multi-task architecture designed to harness the text and audio data from quarterly earnings conference calls to predict future price volatility in the short and long term. This includes a comprehensive comparison to a variety of baselines, which demonstrates very significant improvements in prediction accuracy, in the range 17% - 49% compared to the current state-of-the-art.
+This paper proposes a novel hierarchical, transformer, multi-task architecture designed to harness the text and audio data from quarterly earnings conference calls to predict future price volatility in the short and long term. This includes a comprehensive comparison to a variety of baselines, demonstrating significant improvements in prediction accuracy, in the range of 17% - 49% compared to the current state-of-the-art.
 
 [Paper](https://www.researchgate.net/profile/Linyi_Yang2/publication/340385140_HTML_Hierarchical_Transformer-based_Multi-task_Learning_for_Volatility_Prediction/links/5e85efd8299bf1307972bc3d/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction.pdf) [Code](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction) [DOI](https://doi.org/10.1145/3366423.3380128)
 </div>
