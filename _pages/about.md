@@ -52,7 +52,7 @@ Pre-trained language models (PLMs) are known to improve the generalization perfo
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2020</div><img src='../images/500x300.png' height="100%" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 
 **HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction**
 
