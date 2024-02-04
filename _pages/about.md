@@ -1,4 +1,4 @@
----
+<img width="948" alt="image" src="https://github.com/YangLinyi/yanglinyi.github.io/assets/22150858/afc3d040-851e-4a2a-a87c-57af51054f0f">---
 permalink: /
 title: ""
 excerpt: ""
@@ -55,13 +55,20 @@ In addition, I am keen on mentoring and working with highly motivated interns wh
 - 2018-Nov: Our paper won the best paper nomination at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1) (Best Paper Candidate).
 - 2017-Dec: My first paper was published at [AICS 2017](http://aiai.ucd.ie/aics2017/index.html).
 
+# 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/glue-x.jpg' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-Distribution Generalization Perspective**
 
+**Linyi Yang**, Shuibai Zhang, Libo Qin, Yafu Li, Yidong Wang, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang
 
-# 📝 Publications
+Pre-trained language models (PLMs) are known to improve the generalization performance of natural language understanding models by leveraging large amounts of data during the pre-training phase. However, the out-of-distribution (OOD) generalization problem remains a challenge in many NLP tasks, limiting the real-world deployment of these methods. This paper presents the first attempt at creating a unified benchmark named GLUE-X for evaluating OOD robustness in NLP models, highlighting the importance of OOD robustness and providing insights on how to measure the robustness of a model and how to improve it. The benchmark includes 15 publicly available datasets for OOD testing, and evaluations are conducted on 8 classic NLP tasks over 21 popularly used PLMs. Our findings confirm the need for improved OOD accuracy in NLP tasks, as significant performance degradation was observed in all settings compared to in-distribution (ID) accuracy.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2020</div><img src='images/500x300.png' height="100%" width="100%"></div></div>
+[Paper](https://arxiv.org/pdf/2211.08073.pdf) [Code](https://github.com/YangLinyi/GLUE-X)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2020</div><img src='images/html.jpg' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction**
