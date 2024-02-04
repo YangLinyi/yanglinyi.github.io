@@ -36,19 +36,17 @@ In addition, I am keen on mentoring and working with highly motivated interns wh
 - 2018-Nov: Our paper won the best paper nomination at [CCIS 2018](http://ccis2018.csp.escience.cn/dct/page/1) (Best Paper Candidate).
 - 2017-Dec: My first paper was published at [AICS 2017](http://aiai.ucd.ie/aics2017/index.html).
 
-# 📝 Selected Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2020</div><img src='../images/500x300.png' height="100%" width="100%"></div></div>
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2020</div><img src='images/500x300.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction**
 
 **Linyi Yang**, James Ng, Ruihai Dong, Barry Smyth
 
+This paper proposes a novel hierarchical, transformer, multi-task architecture designed to harness the text and audio data from quarterly earnings conference calls to predict future price volatility in the short and long term. This includes a comprehensive comparison to a variety of baselines, which demonstrates very significant improvements in prediction accuracy, in the range 17% - 49% compared to the current state-of-the-art.
 This paper proposes a novel hierarchical, transformer, multi-task architecture designed to harness the text and audio data from quarterly earnings conference calls to predict future price volatility in the short and long term. This includes a comprehensive comparison to a variety of baselines, demonstrating significant improvements in prediction accuracy, in the range of 17% - 49% compared to the current state-of-the-art.
 
 [Paper](https://www.researchgate.net/profile/Linyi_Yang2/publication/340385140_HTML_Hierarchical_Transformer-based_Multi-task_Learning_for_Volatility_Prediction/links/5e85efd8299bf1307972bc3d/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction.pdf) [Code](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction) [DOI](https://doi.org/10.1145/3366423.3380128)
-</div>
 </div>
 
 <!--
