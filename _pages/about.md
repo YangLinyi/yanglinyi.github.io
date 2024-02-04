@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a Research Assistant Professor in the [Westlake NLP group](https://westlakenlp.netlify.app/), working with [Yue Zhang](https://frcchang.github.io/). Previously, I graduated with a PhD from the Insight Centre, University College Dublin, where I worked with [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong.
+I am currently serving as a Research Assistant Professor within the [Westlake NLP group](https://westlakenlp.netlify.app/), under the mentorship of Yue Zhang. My academic journey culminated in a PhD from the Insight Centre at University College Dublin, where I had the privilege of working alongside [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong.
 
-I am broadly interested in the problem of Data-centric AI and Trustworthy AI, improving the transparency and generalization of neural networks for natural language understanding. I am now working on causality-guided methods for NLP and its applications in high-stake domains to achieve this goal. Please email me if you have any questions about our research work.
+My research interests lie at the confluence of Artificial Intelligence (AI) for Finance and Natural Language Processing (NLP), particularly in enhancing the robustness of neural networks against out-of-distribution data and augmenting their causal reasoning capabilities for practical applications. Currently, I focus on developing causality-guided approaches within NLP, aiming to foster innovations in the high-stake sectors.
 
-I always look for highly motivated interns with strong programming skills to work with me. If you want to collaborate, please email me your CV.
+Should you wish to inquire further about my research, I welcome you to contact me via email.
+
+In addition, I am keen on mentoring and working with highly motivated interns who possess strong programming capabilities. If you are interested in collaborating, please do not hesitate to send your CV to my email.
 
 # Honors and Awards
 
