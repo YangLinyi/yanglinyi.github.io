@@ -59,7 +59,7 @@ In addition, I am keen on mentoring and working with highly motivated interns wh
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/digging_errors.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/500x300.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-Distribution Generalization Perspective**
@@ -73,7 +73,7 @@ Pre-trained language models (PLMs) are known to improve the generalization perfo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2020</div><img src='images/500x300.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2020</div><img src='images/500x300.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 **HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction**
 **Linyi Yang**, James Ng, Ruihai Dong, Barry Smyth
@@ -84,7 +84,7 @@ This paper proposes a novel hierarchical, transformer, multi-task architecture d
 
 <!--
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2022</div><img src='images/Fig.png' height="100%" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2022</div><img src='images/500x300.png' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Paper**
