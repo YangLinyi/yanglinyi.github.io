@@ -1,22 +1,3 @@
-<img width="948" alt="image" src="https://github.com/YangLinyi/yanglinyi.github.io/assets/22150858/afc3d040-851e-4a2a-a87c-57af51054f0f">---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 I am currently serving as a Research Assistant Professor within the [Westlake NLP group](https://westlakenlp.netlify.app/), under the mentorship of Yue Zhang. My academic journey culminated in a PhD from the Insight Centre at University College Dublin, where I had the privilege of working alongside [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong.
 
 My research interests lie at the confluence of Artificial Intelligence (AI) for Finance and Natural Language Processing (NLP), particularly in enhancing the robustness of neural networks against out-of-distribution data and augmenting their causal reasoning capabilities for practical applications. Currently, I focus on developing causality-guided approaches within NLP, aiming to foster innovations in the high-stake sectors.
@@ -56,6 +37,19 @@ In addition, I am keen on mentoring and working with highly motivated interns wh
 - 2017-Dec: My first paper was published at [AICS 2017](http://aiai.ucd.ie/aics2017/index.html).
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/glue-x.jpg' height="100%" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-Distribution Generalization Perspective**
+
+**Linyi Yang**, Shuibai Zhang, Libo Qin, Yafu Li, Yidong Wang, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang
+
+Pre-trained language models (PLMs) are known to improve the generalization performance of natural language understanding models by leveraging large amounts of data during the pre-training phase. However, the out-of-distribution (OOD) generalization problem remains a challenge in many NLP tasks, limiting the real-world deployment of these methods. This paper presents the first attempt at creating a unified benchmark named GLUE-X for evaluating OOD robustness in NLP models, highlighting the importance of OOD robustness and providing insights on how to measure the robustness of a model and how to improve it. The benchmark includes 15 publicly available datasets for OOD testing, and evaluations are conducted on 8 classic NLP tasks over 21 popularly used PLMs. Our findings confirm the need for improved OOD accuracy in NLP tasks, as significant performance degradation was observed in all settings compared to in-distribution (ID) accuracy.
+
+[Paper](https://arxiv.org/pdf/2211.08073.pdf) [Code](https://github.com/YangLinyi/GLUE-X)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2020</div><img src='images/html.jpg' height="100%" width="100%"></div></div>
 <div class='paper-box-text' markdown="2">
