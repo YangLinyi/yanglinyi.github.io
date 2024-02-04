@@ -1,3 +1,22 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 I am currently serving as a Research Assistant Professor within the [Westlake NLP group](https://westlakenlp.netlify.app/), under the mentorship of Yue Zhang. My academic journey culminated in a PhD from the Insight Centre at University College Dublin, where I had the privilege of working alongside [Barry Smyth](https://people.ucd.ie/barry.smyth) and Ruihai Dong.
 
 My research interests lie at the confluence of Artificial Intelligence (AI) for Finance and Natural Language Processing (NLP), particularly in enhancing the robustness of neural networks against out-of-distribution data and augmenting their causal reasoning capabilities for practical applications. Currently, I focus on developing causality-guided approaches within NLP, aiming to foster innovations in the high-stake sectors.
