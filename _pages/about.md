@@ -57,7 +57,7 @@ In addition, I am keen on mentoring and working with highly motivated interns wh
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ood_survey.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ICLR_24.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Supervised Knowledge Makes Large Language Models Better In-context Learners**
