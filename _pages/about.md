@@ -21,27 +21,27 @@ I am currently serving as a Research Assistant Professor within the [Westlake NL
 
 My research interests lie at the confluence of Artificial Intelligence (AI) for Finance and Natural Language Processing (NLP), particularly in enhancing the robustness of neural networks against out-of-distribution data and augmenting their causal reasoning capabilities for practical applications. Currently, I focus on developing causality-guided approaches within NLP, aiming to foster innovations in the high-stake sectors.
 
-Should you wish to inquire further about my research, I welcome you to contact me via email.
+Should you wish to inquire further about my research, welcome to contact me via [email](yanglinyi@westlake.edu.cn).
 
-In addition, I am keen on mentoring and working with highly motivated interns who possess strong programming capabilities. If you are interested in collaborating, please do not hesitate to send your CV to my email.
+In addition, I am keen on mentoring and working with highly motivated interns who possess programming capabilities. If you are interested in collaborating, please do not hesitate to send your CV to my [email](yanglinyi@westlake.edu.cn).
 
 # Honors and Awards
 
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
-- Outstanding Self-financed Students Abroad (Applicable for Non-CSC PhDs; Only One Type-B Winner in Ireland), 2021.
+- Outstanding Self-financed Students Abroad (Non-CSC PhDs; Only One Type-B Winner in Ireland), 2021.
 - Best Paper Candidate, CCIS, 2018.
 
 # News
-- 2024-Jan 🔥🔥 Three papers have been accepted to [ICLR 2024](https://iclr.cc/).
+- 2024-Jan 🔥🔥 Three papers have been accepted to [ICLR 2024](https://iclr.cc/) (SuperContext; FastDetect; PandaLM).
 - 2023-Dec One paper has been accepted to [EMNLP 2023](https://2023.emnlp.org/).
 - 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Model with Dr. Jindong Wang and Prof. Qiang Yang.
 - 2023-May 🔥🔥 Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three co-first author papers and one second-author paper).
 - 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 - Area Chair / Senior Programme Committee (SPC): EMNLP-22; IJCAI-23.
-- PC Member/Reviewer: CIKM-20; COLING-20; ACL-21; SIGIR-21; CKIM-21; EMNLP-21; IEEE-Access.
+- PC Member/Reviewer: CIKM-20; SIGIR-21; CKIM-21; EMNLP 2021-2024; ACL 2021-2024; COLING 2022-2024; TASLP; TALLIP; TBD.
 - 2022-Dec: 🎉🎉 I received Outstanding Postdoctoral Fellows from Westlake University and gave a talk as the only postdoctoral representative.
-- 2022-Sep: One paper co-operating with MSRA has been accepted to [NeurIPS 2022](https://arxiv.org/pdf/2208.07204/). The first author was my intern at Westlake University. Big congrats! (core: A*, CCF: A)
+- 2022-Sep: One paper co-operating with MSRA has been accepted to [NeurIPS 2022](https://arxiv.org/pdf/2208.07204/). The first author was my intern at Westlake University. (core: A*, CCF: A)
 - 2022-Aug: Two papers (one first-author paper) have been accepted to [COLING 2022](https://coling2022.org/). (core: A, CCF: B)
 - 2022-Mar: One co-first author long paper has been accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference. (core: A*, CCF: A)
 - 2022-Jan: One first-author long paper has been accepted to [AAAI 2022](https://www.aaai.org/AAAI22Papers/AAAI-4799.YangL.pdf) (15% acceptance rate). (core: A*, CCF: A)
