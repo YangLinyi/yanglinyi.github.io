@@ -62,7 +62,7 @@ In addition, I am keen on mentoring and working with highly motivated interns wh
 
 **Supervised Knowledge Makes Large Language Models Better In-context Learners**
 
-**Linyi Yang***, Shuibai Zhang*, Zhuohao Yu*, Guangsheng Bao, Yidong Wang, Jindong Wang, Ruochen Xu, Wei Ye, Xing Xie, Weizhu Chen, Yue Zhang
+**Linyi Yang** *, Shuibai Zhang *, Zhuohao Yu *, Guangsheng Bao, Yidong Wang, Jindong Wang, Ruochen Xu, Wei Ye, Xing Xie, Weizhu Chen, Yue Zhang
 
 While previous in-context learning research has focused on enhancing models to adhere to users' specific instructions and quality expectations, and to avoid undesired outputs, little to no work has explored the use of task-specific fine-tuned Language Models (SLMs) to improve LLMs' in-context learning during the inference stage. Our primary contribution is the establishment of a simple yet effective framework that enhances the reliability of LLMs as it: 1) generalizes out-of-distribution data, 2) elucidates how LLMs benefit from discriminative models, and 3) minimizes hallucinations in generative tasks. Using our proposed plug-in method, enhanced versions of Llama 2 and ChatGPT surpass their original versions regarding generalizability and factuality. We offer a comprehensive suite of resources, including 16 curated datasets, prompts, model checkpoints, and LLM outputs across 9 distinct tasks. Our empirical analysis sheds light on the advantages of incorporating discriminative models into LLMs and highlights the potential of our methodology in fostering more reliable LLMs. 
 
@@ -91,7 +91,7 @@ Machine learning (ML) systems in natural language processing (NLP) face signific
 
 **GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-Distribution Generalization Perspective**
 
-**Linyi Yang***, Shuibai Zhang*, Libo Qin, Yafu Li, Yidong Wang, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang
+**Linyi Yang** *, Shuibai Zhang *, Libo Qin, Yafu Li, Yidong Wang, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang
 
 This paper presents the first attempt at creating a unified benchmark named GLUE-X for evaluating OOD robustness in NLP models, highlighting the importance of OOD robustness and providing insights on how to measure the robustness of a model and how to improve it. The benchmark includes 15 publicly available datasets for OOD testing, and evaluations are conducted on 8 classic NLP tasks over 21 popularly used PLMs. Our findings confirm the need for improved OOD accuracy in NLP tasks, as significant performance degradation was observed in all settings compared to in-distribution (ID) accuracy.
 
@@ -106,7 +106,7 @@ This paper presents the first attempt at creating a unified benchmark named GLUE
 
 **Measuring Consistency in Text-based Financial Forecasting Models**
 
-**Linyi Yang***, Yingpeng Ma*, Yue Zhang
+**Linyi Yang** *, Yingpeng Ma *, Yue Zhang
 
 Financial forecasting has been an important and active area of machine learning research, as even the most modest advantages in predictive accuracy can be parlayed into significant financial gains. Recent advances in natural language processing (NLP) bring the opportunity to leverage textual data, such as earnings reports of publicly traded companies, to predict the return rate for an asset. However, when dealing with such a sensitive task, the consistency of models – their invariance under meaning-preserving alternations in input – is a crucial property for building user trust. Despite this, current methods for financial forecasting do not take consistency into consideration. To address this issue, we propose FinTrust, an evaluation tool that assesses logical consistency in financial text. Using FinTrust, we show that the consistency of state-of-the-art NLP models for financial forecasting is poor. Our analysis of the performance degradation caused by meaning-preserving alternations suggests that current text-based methods are not suitable for robustly predicting market information.
 
@@ -121,7 +121,7 @@ Financial forecasting has been an important and active area of machine learning 
 
 **Learning to Generalize for Cross-domain QA**
 
-Yingjie Niu*, **Linyi Yang***, Ruihai Dong, Yue Zhang
+Yingjie Niu *, **Linyi Yang** *, Ruihai Dong, Yue Zhang
 
 There have been growing concerns regarding the out-of-domain generalization ability of natural language processing (NLP) models, particularly in question-answering (QA) tasks. Current synthesized data augmentation methods for QA are hampered by increased training costs. To address this issue, we propose a novel approach that combines prompting methods and linear probing with fine-tuning strategy, which does not entail additional cost. Our method has been theoretically and empirically shown to be effective in enhancing the generalization ability of both generative and discriminative models. Our approach outperforms state-of-the-art baselines, with an average increase in F1 score of 4.5%-7.9%. Furthermore, our method can be easily integrated into any pre-trained models and offers a promising solution to the under-explored cross-domain QA task.
 
@@ -137,7 +137,7 @@ There have been growing concerns regarding the out-of-domain generalization abil
 
 **A Rationale-Centric Framework for Human-in-the-loop Machine Learning**
 
-Jinghui Lu, **Linyi Yang**, Brian Namee, Yue Zhang
+Jinghui Lu*, **Linyi Yang** *, Brian Namee, Yue Zhang
 
 We present a novel rational-centric framework with human-in-the-loop – Rationales-centric Double-robustness Learning (RDL) – to boost model out-of-distribution performance in few-shot learning scenarios. By using static semi-factual generation and dynamic human-intervened correction, RDL, acting like a sensible “inductive bias”, exploits rationales (i.e. phrases that cause the prediction), human interventions and semi-factual augmentations to decouple spurious associations and bias models towards generally applicable underlying distributions, which enables fast and accurate generalisation. Experimental results show that RDL leads to significant prediction benefits on both in-distribution and out-of-distribution tests, especially for few-shot learning scenarios, compared to many state-of-the-art benchmarks.
 
@@ -179,6 +179,7 @@ While state-of-the-art NLP models have been achieving excellent performance in a
 <div class='paper-box-text' markdown="1">
   
 **HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction**
+
 **Linyi Yang**, James Ng, Barry Smyth, Ruihai Dong
 
 This paper proposes a novel hierarchical, transformer, multi-task architecture designed to harness the text and audio data from quarterly earnings conference calls to predict future price volatility in the short and long term. This includes a comprehensive comparison to a variety of baselines, which demonstrates very significant improvements in prediction accuracy, in the range 17% - 49% compared to the current state-of-the-art.
