@@ -131,9 +131,20 @@ There have been growing concerns regarding the out-of-domain generalization abil
 </div>
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/NumHTML.png' height="200"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/acl_22_fig.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
+
+**A Rationale-Centric Framework for Human-in-the-loop Machine Learning**
+
+Jinghui Lu, **Linyi Yang**, Brian Namee, Yue Zhang
+
+We present a novel rational-centric framework with human-in-the-loop – Rationales-centric Double-robustness Learning (RDL) – to boost model out-of-distribution performance in few-shot learning scenarios. By using static semi-factual generation and dynamic human-intervened correction, RDL, acting like a sensible “inductive bias”, exploits rationales (i.e. phrases that cause the prediction), human interventions and semi-factual augmentations to decouple spurious associations and bias models towards generally applicable underlying distributions, which enables fast and accurate generalisation. Experimental results show that RDL leads to significant prediction benefits on both in-distribution and out-of-distribution tests, especially for few-shot learning scenarios, compared to many state-of-the-art benchmarks.
+
+[Paper](https://aclanthology.org/2022.acl-long.481/) [Code](https://github.com/GeorgeLuImmortal/RDL-Rationales-centric-Double-robustness-Learning))
+
+</div>
+</div>
 
 **NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting**
 
@@ -141,7 +152,22 @@ There have been growing concerns regarding the out-of-domain generalization abil
 
 Financial forecasting has been an important and active area of machine learning research because of the challenges it presents and the potential rewards that even minor improvements in prediction accuracy or forecasting may entail. Traditionally, financial forecasting has heavily relied on quantitative indicators and metrics derived from structured financial statements. Earnings conference call data, including text and audio, is an important source of unstructured data that has been used for various prediction tasks using deep earning and related approaches. However, current deep learning-based methods are limited in the way that they deal with numeric data; numbers are typically treated as plain-text tokens without taking advantage of their underlying numeric structure. This paper describes a numeric-oriented hierarchical transformer model to predict stock returns, and financial risk using multi-modal aligned earnings calls data by taking advantage of the different categories of numbers (monetary, temporal, percentages etc.) and their magnitude.
 
-[Paper](https://arxiv.org/abs/2201.01770) [Code]([https://github.com/FreddieNIU/Prompt-QA](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction))
+[Paper](https://arxiv.org/abs/2201.01770) [Code](https://github.com/YangLinyi/HTML-Hierarchical-Transformer-based-Multi-task-Learning-for-Volatility-Prediction))
+
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/acl_21_fig.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis**
+
+**Linyi Yang**, Jiazheng Li, Padraig Cunningham, Yue Zhang, Barry Smyth, Ruihai Dong
+
+While state-of-the-art NLP models have been achieving excellent performance in a wide range of tasks in recent years, important questions are being raised about their robustness and their underlying sensitivity to systematic biases that may exist in their training and test data. Such issues manifest in performance problems when faced with out-of-distribution data in the field. One recent solution has been to use counterfactually augmented datasets in order to reduce any reliance on spurious patterns that may exist in the original data. Producing high-quality augmented data can be costly and time-consuming as it usually needs to involve human feedback and crowdsourcing efforts. In this work, we propose an alternative by describing and evaluating an approach to automatically generating counterfactual data for the purpose of data augmentation and explanation. 
+
+[Paper](https://aclanthology.org/2021.acl-long.26/) [Code]([https://github.com/lijiazheng99/Counterfactuals-for-Sentiment-Analysis])
 
 </div>
 </div>
