@@ -146,6 +146,8 @@ We present a novel rational-centric framework with human-in-the-loop – Rationa
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/NumHTML.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
 **NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting**
 
 **Linyi Yang**, Jiazheng Li, Ruihai Dong, Yue Zhang, Barry Smyth
