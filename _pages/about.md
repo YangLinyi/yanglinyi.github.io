@@ -23,7 +23,7 @@ My research interests lie at the confluence of Artificial Intelligence (AI) for 
 
 Should you wish to inquire further about my research, welcome to contact me via [email](yanglinyi@westlake.edu.cn).
 
-In addition, I am keen on mentoring and working with highly motivated interns who possess programming capabilities. If you are interested in collaborating, please do not hesitate to send your CV to my [email](yanglinyi@westlake.edu.cn).
+I plan an integrated approach in the following three years, blending insights from causal inference, explainable AI, and fintech. The goal is to address complex AI challenges by offering robust solutions for uncertainties and diverse stakeholder needs. We'll use explainable AI for improving transparency, data-centric methods for expanding causality-aware data governance, and causal inference for managing uncertainties. Finally, we will enhance our focus on hybrid human-AI collaboration systems, working with domain experts to explore more efficient ways to instruct humans to recover from AI errors. I am keen on mentoring and working with highly motivated interns who possess strong programming capabilities on these topics. If you are interested in collaborating, please do not hesitate to send your CV to my [email](yanglinyi@westlake.edu.cn).
 
 # Honors and Awards
 
