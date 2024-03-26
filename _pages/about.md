@@ -19,11 +19,9 @@ redirect_from:
 
 I am currently serving as a Research Assistant Professor within the [Westlake NLP group](https://westlakenlp.netlify.app/), under the mentorship of Yue Zhang. My academic journey culminated in a PhD from the Insight Centre at University College Dublin, where I was supervised by [Barry Smyth](https://people.ucd.ie/barry.smyth) and [Ruihai Dong](https://people.ucd.ie/ruihai.dong).
 
-My research interests lie at the confluence of Artificial Intelligence (AI) for Finance and Natural Language Processing (NLP), particularly in enhancing the robustness of neural networks against out-of-distribution data and augmenting their causal reasoning capabilities for practical applications. Currently, I focus on developing causality-guided approaches within NLP, aiming to foster innovations in the finance domain.
+My research interests lie at the confluence of Artificial Intelligence (AI) for Finance and Natural Language Processing (NLP), particularly in enhancing the robustness of neural networks against out-of-distribution data and augmenting their causal reasoning capabilities for practical applications. I plan an integrated approach in the following three years, blending insights from causal inference, explainable AI, and fintech. The goal is to address complex AI challenges by offering robust solutions for uncertainties and diverse stakeholder needs. We'll use explainable AI for improving transparency, data-centric methods for expanding causality-aware data governance, and causal inference for managing uncertainties. Finally, we will enhance our focus on hybrid human-AI collaboration systems, working with domain experts to explore more efficient ways to instruct humans to recover from AI errors. 
 
-Should you wish to inquire further about my research, welcome to contact me via [email](yanglinyi@westlake.edu.cn).
-
-I plan an integrated approach in the following three years, blending insights from causal inference, explainable AI, and fintech. The goal is to address complex AI challenges by offering robust solutions for uncertainties and diverse stakeholder needs. We'll use explainable AI for improving transparency, data-centric methods for expanding causality-aware data governance, and causal inference for managing uncertainties. Finally, we will enhance our focus on hybrid human-AI collaboration systems, working with domain experts to explore more efficient ways to instruct humans to recover from AI errors. I am keen on mentoring and working with highly motivated interns who possess strong programming capabilities on these topics. If you are interested in collaborating, please do not hesitate to send your CV to my [email](yanglinyi@westlake.edu.cn).
+I am keen on mentoring and working with highly motivated interns who possess strong programming capabilities on these topics. If you are interested in collaborating, please do not hesitate to send your CV to my [email](yanglinyi@westlake.edu.cn).
 
 # Honors and Awards
 
@@ -36,7 +34,7 @@ I plan an integrated approach in the following three years, blending insights fr
 - 2024-Jan 🔥🔥 Three papers have been accepted to [ICLR 2024](https://iclr.cc/) (SuperContext; FastDetect; PandaLM).
 - 2023-Dec One paper has been accepted to [EMNLP 2023](https://2023.emnlp.org/).
 - 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Model with Dr. Jindong Wang and Prof. Qiang Yang.
-- 2023-May 🔥🔥 Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three co-first author papers and one second-author paper).
+- 2023-May 🔥🔥 Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three co-first author papers).
 - 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 - Area Chair / Senior Programme Committee (SPC): EMNLP-22; IJCAI-23.
 - PC Member/Reviewer: CIKM-20; SIGIR-21; CKIM-21; EMNLP 2021-2024; ACL 2021-2024; COLING 2022-2024; TASLP; TALLIP; TBD.
