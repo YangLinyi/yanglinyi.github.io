@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
 I am a Research Assistant Professor within the [Westlake NLP group](https://westlakenlp.netlify.app/). My research interests lie in Interdisciplinary Methods for Pioneering AI and Computational Trust (IMPACT), particularly in enhancing the robustness and security of LLMs and augmenting their causal reasoning capabilities for practical applications. I served as an **Area Chair** at EMNLP and CIKM, and a **Senior Program Committee** member at IJCAI, an **associate editor** at Special Issue on TIST with Prof. Qiang Yang and Dr. Jindong Wang.
