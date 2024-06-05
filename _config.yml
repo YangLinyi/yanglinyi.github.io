@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Linyi Yang"
+description              : "Research Assistant Professor @ WestlakeNLP"
+repository               : "YangLinyi/yanglinyi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Linyi Yang"
+  avatar           : "images/yanglinyi.jpg"
+  bio              : "Westlake University"
+  location         : "Hangzhou, Zhejiang"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : https://scholar.google.com/citations?user=go3sFxcAAAAJ#"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "yanglinyi@westlake.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Linyi-Yang-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "YangLinyi"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,9 +51,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "linyi_yang"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
