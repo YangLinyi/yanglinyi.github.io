@@ -26,10 +26,10 @@ I have published 13 CCF-A&B papers as (co-) first author and 40 papers at top-ti
 I am interested in the following three fundamental challenges and three application fields.
 
 Fundamental Problems:
-1. Explanation (XAI) 2. Long-context Retrieval (RAG) 3. Multi-agent Collaboration
+1. Explanation (XAI) 2. Long-context Retrieval 3. Multi-agent Collaboration
 
 Applications:
-1. AI in Finance 2. AI for Science 3. Social Responsibility 
+1. AI in Finance 2. AI for Science 3. Social Responsibility and Psychology
 
 # 🏆 Honors and Awards
 
