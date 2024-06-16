@@ -35,7 +35,7 @@ Applications:
 
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
-- Outstanding Self-financed Students Abroad (Non-CSC PhDs; Only One Type-B Winner in Ireland), 2021.
+- Outstanding Self-financed Students Abroad (Special Awards, Only One Winner in Ireland), 2021.
 - Best Paper Candidate, CCIS, 2018.
 
 # 🌱 Repository
