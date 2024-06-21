@@ -20,10 +20,10 @@ redirect_from:
 
 I am a Research Assistant Professor within the [Westlake NLP group](https://westlakenlp.netlify.app/). My research interests lie in Interdisciplinary Methods for Pioneering AI and Computational Trust (IMPACT), particularly in enhancing the robustness and security of LLMs and augmenting their reasoning capabilities for cross-disciplinary applications. I served as an **Area Chair** at EMNLP and CIKM, and a **Senior Program Committee** member at IJCAI, an **associate editor** at Special Issue on TIST with Prof. Qiang Yang and Dr. Jindong Wang. Previously, I received my PhD at University College Dublin under the co-supervision of Dr. Ruihai Dong and Prof. Barry Smyth.
 
-I have published 9 CCF-A (10 Tsinghua A) papers as (co-) first author and 40 papers at top-tier conferences, such as ICLR, NeurIPS, ACL, WWW, AAAI, and SIGIR with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am keen on mentoring and working with highly motivated students who possess strong programming capabilities on these topics.  
+I have published 9 CCF-A (10 Tsinghua A) papers as (co-) first author and 40 papers at top-tier conferences, such as ICLR, NeurIPS, ACL, WWW, AAAI, and SIGIR with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am keen on mentoring and working with highly motivated students who possess strong programming capabilities on these topics. 
 
 <span style="color:red; font-size: 100%">**If you are looking for Interns/RAs**</span>, please do not hesitate to contact me via email: yanglinyi[at]westlake[dot]edu[dot]cn 
-I am interested in the following three fundamental challenges and three application fields.
+**My long-term goal is to leverage the generalization capabilities of large models to empower downstream scenarios**. For now, I am interested in the following three fundamental challenges and three application fields.
 
 Fundamental Problems:
 1. Explanation (XAI) 2. Long-context Retrieval 3. Multi-agent Collaboration
@@ -35,7 +35,7 @@ Applications:
 
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
-- Outstanding Self-financed Students Abroad (Special Awards, Only One Winner in Ireland, 50 intotal), 2021.
+- Outstanding Self-financed Students Abroad (Special Awards, Only One Winner in Ireland, 50 in total), 2021.
 - Best Paper Candidate, CCIS, 2018.
 
 # 🌱 Repository
