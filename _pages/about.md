@@ -22,13 +22,9 @@ I am a Research Assistant Professor within the [Westlake NLP group](https://west
 
 I have published 9 CCF-A (10 Tsinghua A) papers as (co-) first author and 40 papers at top-tier conferences, such as ICLR, NeurIPS, ACL, WWW, AAAI, and SIGIR with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am keen on mentoring and working with highly motivated students who possess strong programming capabilities on these topics. <span style="color:red; font-size: 100%">**If you are looking for Interns/RAs**</span>, please do not hesitate to contact me via email: yanglinyi[at]westlake[dot]edu[dot]cn 
 
-I currently focus on three fundamental challenges and three application fields:
+I currently focus on the following research fields:
 
-Fundamental Problems:
-1. Explanation (XAI) 2. Long-context Retrieval 3. Multi-agent Collaboration
-
-Applications:
-1. AI in Finance 2. AI for Science 3. Social Computing
+1. Causal Intelligence for Data Governance 2. On-device LLM Pre-training and Fine-tuning 3. Explainable Methods for Saving Computing Cost
 
 # 🏆 Honors and Awards
 
