@@ -24,7 +24,7 @@ I have published 9 CCF-A (10 Tsinghua A) papers as (co-) first author and 40 pap
 
 I currently focus on the following research fields:
 
-1. Causal Intelligence for Data Governance 2. On-device LLM Pre-training and Fine-tuning 3. Explainable Methods for Saving Computing Cost
+1. Causal Intelligence 2. On-device LLM Pre-training and Fine-tuning 3. Explainable Methods
 
 # 🏆 Honors and Awards
 
