@@ -329,7 +329,12 @@ ___# denotes corresponding author___
   Yidong Wang, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, **Linyi Yang**, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang.
 
   NeurIPS Dataset and Benchmark (<font color=Blue>``NeurIPS 2022``</font>).
-  
+
+- (14)  Towards Fine-grained Causal Reasoning and QA. [\[paper\]](https://arxiv.org/abs/2204.07408)
+
+  **Linyi Yang**, Zhen Wang, Yuxiang Wu, Jie Yang, Yue Zhang.
+
+  Asking ``Why'' Questions (<font color=Blue>``Arxiv 2022``</font>).
 
 # 🎤 Invited Talks
 - Nanjing University, Nanjing, 2023
