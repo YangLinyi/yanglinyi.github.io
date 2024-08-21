@@ -334,7 +334,7 @@ ___# denotes corresponding author___
 
   **Linyi Yang**, Zhen Wang, Yuxiang Wu, Jie Yang, Yue Zhang.
 
-  Asking ``Why'' Questions (<font color=Blue>``Arxiv 2022``</font>).
+  Asking ''Why'' Questions (<font color=Blue>``Arxiv 2022``</font>).
 
 # 🎤 Invited Talks
 - Nanjing University, Nanjing, 2023
