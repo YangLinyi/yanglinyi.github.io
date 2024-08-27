@@ -306,11 +306,11 @@ ___# denotes corresponding author___
 
   TIST (<font color=Blue>``TIST 2023``</font>).
 
-- (18) NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting. [\[paper\]](https://arxiv.org/abs/2201.01770)
+- (18) USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/190dd6a5735822f05646dc27decff19b-Paper-Datasets_and_Benchmarks.pdf)
 
-  **Linyi Yang**, Jiazheng Li, Ruihai Dong, Yue Zhang, Barry Smyth.
+  Yidong Wang, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, **Linyi Yang**, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang.
 
-  AAAI (<font color=Blue>``AAAI 2022``</font>).
+  NeurIPS Dataset and Benchmark (<font color=Blue>``NeurIPS 2022``</font>).
 
 - (17) A Rationale-Centric Framework for Human-in-the-loop Machine Learning. [\[paper\]](https://arxiv.org/pdf/2203.12918)
 
@@ -324,12 +324,12 @@ ___# denotes corresponding author___
 
   COLING (<font color=Blue>``COLING 2022``</font>).
 
-- (15) USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/190dd6a5735822f05646dc27decff19b-Paper-Datasets_and_Benchmarks.pdf)
+- (15) NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting. [\[paper\]](https://arxiv.org/abs/2201.01770)
 
-  Yidong Wang, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, **Linyi Yang**, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang.
+  **Linyi Yang**, Jiazheng Li, Ruihai Dong, Yue Zhang, Barry Smyth.
 
-  NeurIPS Dataset and Benchmark (<font color=Blue>``NeurIPS 2022``</font>).
-
+  AAAI (<font color=Blue>``AAAI 2022``</font>).
+  
 - (14)  Towards Fine-grained Causal Reasoning and QA. [\[paper\]](https://arxiv.org/abs/2204.07408)
 
   **Linyi Yang**, Zhen Wang, Yuxiang Wu, Jie Yang, Yue Zhang.
