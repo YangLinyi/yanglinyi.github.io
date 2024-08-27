@@ -336,6 +336,30 @@ ___# denotes corresponding author___
 
   Asking ''Why'' Questions (<font color=Blue>``Arxiv 2022``</font>).
 
+- (13)  Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis. [\[paper\]](https://arxiv.org/pdf/2106.15231)
+
+  **Linyi Yang**, Jiazheng Li, Pádraig Cunningham, Yue Zhang, Barry Smyth, Ruihai Dong.
+
+  We propose an alternative to automatically generating counterfactual data for data augmentation and explanation. (<font color=Blue>``ACL 2021``</font>).
+
+- (12)  Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification. [\[paper\]](https://arxiv.org/pdf/2010.12512)
+
+  **Linyi Yang**, Eoin M Kenny, Tin Lok James Ng, Yi Yang, Barry Smyth, Ruihai Dong.
+
+  This paper proposes a novel methodology for producing plausible counterfactual explanations (<font color=Blue>``COLING 2020``</font>).
+
+- (11)  MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412879)
+
+  **Linyi Yang**, Jiazheng Li, Barry Smyth, Ruihai Dong.
+
+  We introduce a new, large-scale multi-modal, text-audio paired, earnings-call dataset named MAEC, based on S\&P 1500 companies.  (<font color=Blue>``COLING 2020``</font>).
+
+- (10)  HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380128)
+
+  **Linyi Yang**, Tin Lok James Ng, Barry Smyth, Ruihai Dong.
+  
+  This paper proposes a novel hierarchical, transformer, multi-task architecture to harness the text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020``</font>).
+  
 # 🎤 Invited Talks
 - Nanjing University, Nanjing, 2023
 - MSRA, Online, 2023
