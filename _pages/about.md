@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Assistant Professor at Westlake University, affiliated with Zhejiang University. My research interests lie in Interdisciplinary Methods for Pioneering AI and Computational Trust (IMPACT), particularly in enhancing the robustness and security of LLMs and augmenting their reasoning capabilities for cross-disciplinary applications. I served as an **Area Chair** at EMNLP and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Qiang Yang. Previously, I received my PhD at University College Dublin under the supervision of Prof. Barry Smyth and Dr. Ruihai Dong.
+I am a Research Assistant Professor at Westlake University. My research interests lie in Interdisciplinary Methods for Pioneering AI and Computational Trust (IMPACT), particularly in enhancing the robustness and security of LLMs and augmenting their reasoning capabilities for cross-disciplinary applications. I served as an **Area Chair** at EMNLP and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Qiang Yang. Previously, I received my PhD at University College Dublin under the supervision of Prof. Barry Smyth and Dr. Ruihai Dong.
 
 I have published more than 40 papers at top-tier conferences, such as ICLR, NeurIPS, ACL, WWW, AAAI, and SIGIR with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am keen on mentoring and working with highly motivated students who possess strong programming capabilities on these topics. <span style="color:red; font-size: 100%">**If you are looking for Interns/RAs**</span>, please do not hesitate to contact me via email: yanglinyi[at]westlake[dot]edu[dot]cn 
 
@@ -34,13 +34,13 @@ I currently focus on the following research fields:
 - Best Paper Candidate, CCIS, 2018.
 
 # 🌱 Repository
-[ **[GLUE-X](https://github.com/YangLinyi/GLUE-X)** ![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Stars) | **[FinNLP](https://github.com/YangLinyi/FinNLP-Progress)** ![](https://img.shields.io/github/stars/YangLinyi/FinNLP-Progress?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[USB](https://github.com/microsoft/Semi-supervised-learning)** ![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Stars) | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
+[ **[GLUE-X](https://github.com/YangLinyi/GLUE-X)** ![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Stars) | **[FinNLP](https://github.com/YangLinyi/FinNLP-Progress)** ![](https://img.shields.io/github/stars/YangLinyi/FinNLP-Progress?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
 
 
 # ⚡ News
 - 2024-May Two papers have been accepted to the main conference of [ACL 2024](https://2024.aclweb.org/).
 - 2024-Feb One paper has been accepted to [NAACL 2024](https://2024.naacl.org/) (Rationale-centric Counterfactual Data Augmentation).
-- 2024-Jan Three papers have been accepted to [ICLR 2024](https://iclr.cc/) (SuperContext; FastDetect; PandaLM).
+- 2024-Jan Three papers (**SuperContext**, FastDetect, and PandaLM) have been accepted to [ICLR 2024](https://iclr.cc/).
 - 2023-Dec One paper has been accepted to [EMNLP 2023](https://2023.emnlp.org/).
 - 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Model with Dr. Jindong Wang and Prof. Qiang Yang.
 - 2023-May 🔥🔥 Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three co-first author papers).
@@ -234,7 +234,7 @@ ___# denotes corresponding author___
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
 
-- (30) Fast-detectgpt: Efficient zero-shot detection of machine-generated text via conditional probability curvature. [\[paper\]](https://arxiv.org/abs/2310.05130.pdf)
+- (30) Fast-DetectGPT: Efficient zero-shot detection of machine-generated text via conditional probability curvature. [\[paper\]](https://arxiv.org/abs/2310.05130.pdf)
   
   Guangsheng Bao, Yanbin Zhao, Zhiyang Teng, Linyi Yang, Yue Zhang.
   
@@ -361,7 +361,10 @@ ___# denotes corresponding author___
   This paper proposes a novel hierarchical, transformer, multi-task architecture to harness the text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020``</font>).
   
 # 🎤 Invited Talks
-- Nanjing University, Nanjing, 2023
+- Zhejiang Lab, Hangzhou, 2024
+- HKUST (GZ), Guangzhou, 2024
+- HKUST, HongKong, 2024
+- Nanjing University, Nanjing, 2024
 - MSRA, Online, 2023
 - Shanghai AI Lab, Shanghai, China 2023
 - MLNLP, Online, China 2022
