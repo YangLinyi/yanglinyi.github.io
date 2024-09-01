@@ -18,23 +18,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Assistant Professor within the [Westlake NLP group](https://westlakenlp.netlify.app/). My research interests lie in Interdisciplinary Methods for Pioneering AI and Computational Trust (IMPACT), particularly in enhancing the robustness and security of LLMs and augmenting their reasoning capabilities for cross-disciplinary applications. I served as an **Area Chair** at EMNLP and CIKM, and a **Senior Program Committee** member at IJCAI, an **associate editor** at the Special Issue on TIST with Prof. Qiang Yang. Previously, I received my PhD at University College Dublin under the co-supervision of Dr. Ruihai Dong and Prof. Barry Smyth.
+I am a Research Assistant Professor at Westlake University, affiliated with Zhejiang University. My research interests lie in Interdisciplinary Methods for Pioneering AI and Computational Trust (IMPACT), particularly in enhancing the robustness and security of LLMs and augmenting their reasoning capabilities for cross-disciplinary applications. I served as an **Area Chair** at EMNLP and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Qiang Yang. Previously, I received my PhD at University College Dublin under the supervision of Prof. Barry Smyth and Dr. Ruihai Dong.
 
 I have published more than 40 papers at top-tier conferences, such as ICLR, NeurIPS, ACL, WWW, AAAI, and SIGIR with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am keen on mentoring and working with highly motivated students who possess strong programming capabilities on these topics. <span style="color:red; font-size: 100%">**If you are looking for Interns/RAs**</span>, please do not hesitate to contact me via email: yanglinyi[at]westlake[dot]edu[dot]cn 
 
 I currently focus on the following research fields:
 
-1. Causal Intelligence 2. On-device LLM Pre-training and Fine-tuning 3. Explainable Methods
+1. Causal Intelligence 2. LLM Pre-training and Fine-tuning 3. SLM-LLM Collaboration 4. Explainable Methods
 
 # 🏆 Honors and Awards
 
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
-- Outstanding Self-financed Students Abroad (Special Awards, Only One Winner in Ireland, 50 in total), 2021.
+- Outstanding Self-financed Students Abroad (Special Awards, Only 1 Winner in Ireland, 50 Winners in total), 2021.
 - Best Paper Candidate, CCIS, 2018.
 
 # 🌱 Repository
-[ **[GLUE-X](https://github.com/YangLinyi/GLUE-X)** ![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Stars) | **[FinNLP](https://github.com/YangLinyi/FinNLP-Progress)** ![](https://img.shields.io/github/stars/YangLinyi/FinNLP-Progress?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[USB](https://github.com/microsoft/Semi-supervised-learning)** ![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Stars)]
+[ **[GLUE-X](https://github.com/YangLinyi/GLUE-X)** ![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Stars) | **[FinNLP](https://github.com/YangLinyi/FinNLP-Progress)** ![](https://img.shields.io/github/stars/YangLinyi/FinNLP-Progress?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[USB](https://github.com/microsoft/Semi-supervised-learning)** ![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Stars) | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
 
 
 # ⚡ News
