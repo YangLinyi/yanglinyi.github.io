@@ -38,6 +38,8 @@ I currently focus on the following research fields:
 
 
 # ⚡ News
+- 2024-Nov Our tutorial at AAAI-24 has been accepted.
+- 2024-Oct I have been invited to give a 6-hour tutorial at RL China 2024.
 - 2024-May Two papers have been accepted to the main conference of [ACL 2024](https://2024.aclweb.org/).
 - 2024-Feb One paper has been accepted to [NAACL 2024](https://2024.naacl.org/) (Rationale-centric Counterfactual Data Augmentation).
 - 2024-Jan Three papers (**SuperContext**, FastDetect, and PandaLM) have been accepted to [ICLR 2024](https://iclr.cc/).
