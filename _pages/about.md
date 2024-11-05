@@ -45,11 +45,11 @@ I currently focus on the following research fields:
 - 2024-Jan Three papers (**SuperContext**, FastDetect, and PandaLM) have been accepted to [ICLR 2024](https://iclr.cc/).
 - 2023-Dec One paper has been accepted to [EMNLP 2023](https://2023.emnlp.org/).
 - 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Model with Dr. Jindong Wang and Prof. Qiang Yang.
-- 2023-May 🔥🔥 Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three leading author papers).
+- 2023-May Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three leading author papers).
 - 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 - Area Chair / Senior Programme Committee (SPC): EMNLP-22; CIKM-22; IJCAI-23.
 - PC Member/Reviewer: CIKM-20; SIGIR-21; CKIM-21; EMNLP 2021-2024; ACL 2021-2024; COLING 2022-2024; TASLP; TALLIP; TBD; TKDE.
-- 2022-Dec: 🎉🎉 I received Outstanding Postdoctoral Fellows from Westlake University and gave a talk as the only postdoctoral representative.
+- 2022-Dec: I received Outstanding Postdoctoral Fellows from Westlake University and gave a talk as the only postdoctoral representative.
 - 2022-Sep: One paper co-operating with MSRA has been accepted to [NeurIPS 2022](https://arxiv.org/pdf/2208.07204/). The first author was my intern at Westlake University. (core: A*, CCF: A)
 - 2022-Aug: Two papers (one first-author paper) have been accepted to [COLING 2022](https://coling2022.org/). (core: A, CCF: B)
 - 2022-Mar: One co-first author long paper has been accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference. (core: A*, CCF: A)
@@ -65,7 +65,7 @@ I currently focus on the following research fields:
 
 **Linyi Yang** *, Shuibai Zhang *, Zhuohao Yu *, Guangsheng Bao, Yidong Wang, Jindong Wang, Ruochen Xu, Wei Ye, Xing Xie, Weizhu Chen, Yue Zhang
 
-While previous in-context learning research has focused on enhancing models to adhere to users' specific instructions and quality expectations, and to avoid undesired outputs, little to no work has explored the use of task-specific fine-tuned Language Models (SLMs) to improve LLMs' in-context learning during the inference stage. Our primary contribution is the establishment of a simple yet effective framework that enhances the reliability of LLMs as it: 1) generalizes out-of-distribution data, 2) elucidates how LLMs benefit from discriminative models, and 3) minimizes hallucinations in generative tasks. Using our proposed plug-in method, enhanced versions of Llama 2 and ChatGPT surpass their original versions regarding generalizability and factuality. We offer a comprehensive suite of resources, including 16 curated datasets, prompts, model checkpoints, and LLM outputs across 9 distinct tasks. Our empirical analysis sheds light on the advantages of incorporating discriminative models into LLMs and highlights the potential of our methodology in fostering more reliable LLMs. 
+While previous in-context learning research has focused on enhancing models to adhere to users' specific instructions and quality expectations, and to avoid undesired outputs, little to no work has explored the use of task-specific fine-tuned Language Models (SLMs) to improve LLMs' in-context learning during the inference stage. Our primary contribution is the establishment of a simple yet effective framework that enhances the reliability of LLMs as it: 1) generalizes out-of-distribution data, 2) elucidates how LLMs benefit from discriminative models, and 3) minimizes hallucinations in generative tasks. Using our proposed plug-in method, enhanced versions of Llama 2 and ChatGPT surpass their original versions in terms of generalizability and factuality. We offer a comprehensive suite of resources, including 16 curated datasets, prompts, model checkpoints, and LLM outputs across 9 distinct tasks. Our empirical analysis sheds light on the advantages of incorporating discriminative models into LLMs and highlights the potential of our methodology in fostering more reliable LLMs. 
 
 [Paper](https://openreview.net/forum?id=bAMPOUF227) [Code](https://github.com/YangLinyi/Supervised-Knowledge-Makes-Large-Language-Models-Better-In-context-Learners)
 
