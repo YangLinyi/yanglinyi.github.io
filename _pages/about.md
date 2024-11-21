@@ -34,7 +34,7 @@ I currently focus on the following research fields:
 - Best Paper Candidate, CCIS, 2018.
 
 # 🌱 Repository
-[ **[GLUE-X](https://github.com/YangLinyi/GLUE-X)** ![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Stars) | **[FinNLP](https://github.com/YangLinyi/FinNLP-Progress)** ![](https://img.shields.io/github/stars/YangLinyi/FinNLP-Progress?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
+[ **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[GLUE-X](https://github.com/YangLinyi/GLUE-X)** ![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Stars) | **[FinNLP](https://github.com/YangLinyi/FinNLP-Progress)** ![](https://img.shields.io/github/stars/YangLinyi/FinNLP-Progress?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
 
 
 # ⚡ News
