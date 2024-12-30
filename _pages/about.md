@@ -18,13 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Assistant Professor at Westlake University. My research interests lie in Interdisciplinary Methods for Pioneering AI and Computational Trust (IMPACT), particularly in enhancing the robustness and security of LLMs and augmenting their reasoning capabilities for cross-disciplinary applications. I served as an **Area Chair** at EMNLP and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Qiang Yang. Previously, I received my PhD at University College Dublin under the supervision of Prof. Barry Smyth and Dr. Ruihai Dong.
+I am a Research Assistant Professor at Westlake University. My research interests lie in Interdisciplinary Methods for Pioneering AI and Computational Trust (IMPACT), particularly in enhancing LLMs' reliability, reasoning capabilities, and real intelligence through exploration-based methods. I served as an **Area Chair** at ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. 
 
 I have published more than 40 papers, at top-tier conferences, such as ICLR, NeurIPS, ACL, WWW, AAAI, and SIGIR, including 9 co-leading Core A* (CCF-A) papers with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am keen on mentoring and working with highly motivated students who possess strong programming capabilities on these topics. <span style="color:red; font-size: 100%">**If you are looking for Interns/RAs and PhDs**</span>, please do not hesitate to contact me via email: yanglinyi[at]westlake[dot]edu[dot]cn 
-
-I currently focus on the following research fields:
-
-1. Causal Intelligence 2. LLM Reasoning 3. Efficient AI 4. Mechanistic Interpretability
 
 # 🏆 Honors and Awards
 
@@ -38,6 +34,7 @@ I currently focus on the following research fields:
 
 
 # ⚡ News
+- 2024-Dec I served as an Area Chair at ACL 2025, and a reviewer at ICML 2025 and ICLR 2025.
 - 2024-Nov Our tutorial at AAAI-24 has been accepted.
 - 2024-Oct I have been invited to give a 6-hour tutorial at RL China 2024.
 - 2024-May Two papers have been accepted to the main conference of [ACL 2024](https://2024.aclweb.org/).
