@@ -198,6 +198,42 @@ ___# denotes corresponding author___
 
 # 📝 Publications
 
+- (42) CycleResearcher: Improving Automated Research via Automated Review.
+  
+  Yixuan Weng, Minjun Zhu, Guangsheng Bao, Hongbo Zhang, Jindong Wang, Yue Zhang, **Linyi Yang**.
+  
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+
+- (41) Personality Alignment of Large Language Models.
+  
+  Minjun Zhu, Yixuan Weng, **Linyi Yang**, Yue Zhang.
+  
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+
+- (40) MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions.
+  
+  Jian Wu, **Linyi Yang**, Dongyuan Li, Yuliang Ji, Manabu Okumura, Yue Zhang.
+  
+  International Conference on Learning Representations 2025 (average score: 8, top 20) (<font color=Blue>``ICLR 2025``</font>).
+
+- (39) CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark.
+  
+  Jian Wu, **Linyi Yang**, Zhen Wang, Manabu Okumura, Yue Zhang.
+  
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+
+- (38) Human Simulacra: Benchmarking the Personification of Large Language Models.
+  
+  Qiujie Xie, Qiming Feng, Tianqi Zhang, Qingqiu Li, **Linyi Yang**, Yuejie Zhang, Rui Feng, Liang He, Shang Gao, Yue Zhang.
+  
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+
+- (37) An Empirical Analysis of Uncertainty in Large Language Model Evaluations.
+  
+  Qiujie Xie, Qingqiu Li, Zhuohao Yu, Yuejie Zhang, **Linyi Yang**, Yue Zhang.
+  
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+
 - (36) PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
   
   Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, **Linyi Yang**, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie.
