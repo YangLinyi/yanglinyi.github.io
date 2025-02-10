@@ -238,7 +238,7 @@ ___# denotes corresponding author___
   
   Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, **Linyi Yang**, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie.
 
-  1st ACM Workshop on Large AI Systems and Models with Privacy and Safety Analysis (<font color=Blue>``Workshop``</font>).
+  1st ACM Workshop on Large AI Systems and Models with Privacy and Safety Analysis (<font color=Blue>``CCS Workshop``</font>).
 
 - (35) Detoxifying Large Language Models via Knowledge Editing. [\[paper\]](https://arxiv.org/pdf/2403.14472)
 
