@@ -34,7 +34,7 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 
 
 # ⚡ News
-- 2025-Jan Six papers have been accepted to the main conference of [ICLR 2025](https://iclr.cc/).
+- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an oral paper. Congratulations to Jian, Minjun, Yixuan, and Qiujie. They published their first Core A* papers on ICLR 2025!
 - 2024-Dec I served as an Area Chair at ACL 2025, and a reviewer at ICML 2025 and ICLR 2025.
 - 2024-Nov Our tutorial at AAAI-24 has been accepted.
 - 2024-Oct I have been invited to give a 6-hour tutorial at RL China 2024.
