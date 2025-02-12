@@ -198,39 +198,37 @@ ___# denotes corresponding author___
 
 # 📝 Publications
 
-- (42) CycleResearcher: Improving Automated Research via Automated Review.
+- (42) An Empirical Analysis of Uncertainty in Large Language Model Evaluations.
+  
+  Qiujie Xie, Qingqiu Li, Zhuohao Yu, Yuejie Zhang, Yue Zhang, **Linyi Yang**.
+  
+- (41) CycleResearcher: Improving Automated Research via Automated Review.
   
   Yixuan Weng, Minjun Zhu, Guangsheng Bao, Hongbo Zhang, Jindong Wang, Yue Zhang, **Linyi Yang**.
   
   International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
 
-- (41) Personality Alignment of Large Language Models.
+- (40) Personality Alignment of Large Language Models.
   
   Minjun Zhu, Yixuan Weng, **Linyi Yang**, Yue Zhang.
   
   International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
 
-- (40) MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions.
+- (39) MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions.
   
   Jian Wu, **Linyi Yang**, Dongyuan Li, Yuliang Ji, Manabu Okumura, Yue Zhang.
   
   International Conference on Learning Representations 2025 (average score: 8, top 20) (<font color=Blue>``ICLR 2025``</font>).
 
-- (39) CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark.
+- (38) CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark.
   
   Jian Wu, **Linyi Yang**, Zhen Wang, Manabu Okumura, Yue Zhang.
   
   International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
 
-- (38) Human Simulacra: Benchmarking the Personification of Large Language Models.
+- (37) Human Simulacra: Benchmarking the Personification of Large Language Models.
   
   Qiujie Xie, Qiming Feng, Tianqi Zhang, Qingqiu Li, **Linyi Yang**, Yuejie Zhang, Rui Feng, Liang He, Shang Gao, Yue Zhang.
-  
-  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
-
-- (37) An Empirical Analysis of Uncertainty in Large Language Model Evaluations.
-  
-  Qiujie Xie, Qingqiu Li, Zhuohao Yu, Yuejie Zhang, **Linyi Yang**, Yue Zhang.
   
   International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
 
