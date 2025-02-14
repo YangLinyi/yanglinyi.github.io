@@ -53,15 +53,21 @@ ___# denotes corresponding author___
 
 # 📝 Publications
 
+- (43) Pre-Training a Graph Recurrent Network for Text Understanding
+
+  Yile Wang, **Linyi Yang**, Zhiyang Teng, Ming Zhou, Yue Zhang
+
+  IEEE Transactions on Pattern Analysis and Machine Intelligence 2025 (<font color=Blue>``TPAMI``</font>). 
+
 - (42) An Empirical Analysis of Uncertainty in Large Language Model Evaluations.
   
-  Qiujie Xie, Qingqiu Li, Zhuohao Yu, Yuejie Zhang, Yue Zhang, **Linyi Yang**.
+  Qiujie Xie, Qingqiu Li, Zhuohao Yu, Yuejie Zhang, Yue Zhang, **Linyi Yang+**.
 
   International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
   
 - (41) CycleResearcher: Improving Automated Research via Automated Review.
   
-  Yixuan Weng, Minjun Zhu, Guangsheng Bao, Hongbo Zhang, Jindong Wang, Yue Zhang, **Linyi Yang**.
+  Yixuan Weng, Minjun Zhu, Guangsheng Bao, Hongbo Zhang, Jindong Wang, Yue Zhang, **Linyi Yang+**.
   
   International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
 
@@ -135,7 +141,7 @@ ___# denotes corresponding author___
  
    Guangsheng Bao, Hongbo Zhang, **Linyi Yang**, Cunxiang Wang, Yue Zhang.
 
-   arXiv preprint 2024 (<font color=Blue>``Arxiv 2024``</font>). 
+   arXiv preprint 2024 (<font color=Blue>``COLING 2024``</font>). 
 
 - (28) A Survey on Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/abs/2307.03109); [![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Code+Stars)](https://github.com/MLGroupJLU/LLM-eval-survey)
 
