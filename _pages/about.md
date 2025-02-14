@@ -34,8 +34,8 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 
 
 # ⚡ News
-- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an oral paper. Congratulations to Jian, Minjun, Yixuan, and Qiujie. They published their first Core A* papers on ICLR 2025!
-- 2024-Dec I served as an Area Chair at ACL 2025, and a reviewer at ICML 2025 and ICLR 2025.
+- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper. Congratulations to Jian, Minjun, Yixuan, and Qiujie. They published their first Core A* papers on ICLR 2025!
+- 2024-Dec I served as an **Area Chair** at ACL 2025, and a reviewer at ICML 2025 and ICLR 2025.
 - 2024-Nov Our tutorial at AAAI-24 has been accepted.
 - 2024-Oct I have been invited to give a 6-hour tutorial at RL China 2024.
 - 2024-May Two papers have been accepted to the main conference of [ACL 2024](https://2024.aclweb.org/).
@@ -45,14 +45,8 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 - 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Model with Dr. Jindong Wang and Prof. Qiang Yang.
 - 2023-May Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three leading author papers).
 - 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
-- Area Chair / Senior Programme Committee (SPC): EMNLP-22; CIKM-22; IJCAI-23.
+- Area Chair / Senior Programme Committee (SPC): EMNLP-22; CIKM-22; IJCAI-23; ACL-25.
 - PC Member/Reviewer: CIKM-20; SIGIR-21; CKIM-21; EMNLP 2021-2024; ACL 2021-2024; COLING 2022-2024; TASLP; TALLIP; TBD; TKDE.
-- 2022-Dec: I received Outstanding Postdoctoral Fellows from Westlake University and gave a talk as the only postdoctoral representative.
-- 2022-Sep: One paper co-operating with MSRA has been accepted to [NeurIPS 2022](https://arxiv.org/pdf/2208.07204/). The first author was my intern at Westlake University. (core: A*, CCF: A)
-- 2022-Aug: Two papers (one first-author paper) have been accepted to [COLING 2022](https://coling2022.org/). (core: A, CCF: B)
-- 2022-Mar: One co-first author long paper has been accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference. (core: A*, CCF: A)
-- 2022-Jan: One first-author long paper has been accepted to [AAAI 2022](https://www.aaai.org/AAAI22Papers/AAAI-4799.YangL.pdf) (15% acceptance rate). (core: A*, CCF: A)
-- 2022-Jan Invited to serve as an Area Chair (AC) at EMNLP-22.
 
 ___* denotes equal contribution___
 ___# denotes corresponding author___
