@@ -201,6 +201,8 @@ ___# denotes corresponding author___
 - (42) An Empirical Analysis of Uncertainty in Large Language Model Evaluations.
   
   Qiujie Xie, Qingqiu Li, Zhuohao Yu, Yuejie Zhang, Yue Zhang, **Linyi Yang**.
+
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
   
 - (41) CycleResearcher: Improving Automated Research via Automated Review.
   
