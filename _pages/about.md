@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color:red; font-size: 150%">**Actively Employing Interns/RAs, Masters, and PhDs for 2026 Spring/Fall**</span>
+<span style="color:red; font-size: 125%">**Actively Employing Interns/RAs, Masters, and PhDs**</span>
 
 
 My research interests lie in Interdisciplinary Methods for Pioneering AI and Computational Trust (IMPACT), particularly in enhancing LLMs' reliability, reasoning capabilities, and real intelligence through exploration-based methods. I served as an **Area Chair** at ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. 
