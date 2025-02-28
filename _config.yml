@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linyi Yang (杨林易)"
-description              : "Researcher"
+description              : "Research Fellow"
 repository               : "YangLinyi/yanglinyi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,8 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=go3sFxcAAAAJ#"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yanglinyi@westlake.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Linyi-Yang-2?ev=hdr_xprf"
+  email            : "yanglinyiucd@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Linyi-Yang-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
