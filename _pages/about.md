@@ -26,7 +26,7 @@ My research interests lie in Interdisciplinary Methods for Pioneering AI and Com
 I have published more than 40 papers, at top-tier conferences, such as ICLR, NeurIPS, ACL, AAAI, EMNLP, and WWW, including 11 co-leading Core A* (CCF-A) papers with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am keen on mentoring and working with highly motivated students who possess strong programming capabilities on these topics. If you are looking for Interns/RAs and PhDs, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com
 
 # 🏆 Honors and Awards
-- Area Chair: **ACL 2025; EMNLP 2023; CIKM 2022**; Senior Program Committee: IJCAI 2023;  Associate Editor: TIST.
+- Area Chair: **ACL 2025; EMNLP 2023; CIKM 2022; IJCAI 2023 (SPC)**;  Associate Editor: TIST.
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
 - Outstanding Self-financed Students Abroad (Special Awards, Only 1 Winner in Ireland, 50 Winners in total), 2021.
@@ -37,10 +37,10 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 
 
 # ⚡ News
-- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper. Congratulations to Jian, Minjun, Yixuan, and Qiujie. They published their first Core A* papers on ICLR 2025!
-- 2024-Dec I served as an **Area Chair** at ACL 2025, and a reviewer at ICML 2025 and ICLR 2025.
-- 2024-Nov Our tutorial at AAAI-24 has been accepted.
-- 2024-Oct I have been invited to give a 6-hour tutorial at RL China 2024.
+- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper (). Congratulations to Jian, Minjun, Yixuan, and Qiujie. They published their first Core A* papers on ICLR 2025!
+- 2024-Dec I served as an **Area Chair** at ACL 2025, and a reviewer at NeurIPS 2024, ICML 2025, and ICLR 2025.
+- 2024-Nov Our tutorial on LLM Evaluation has been accepted to **AAAI-24**.
+- 2024-Oct I have been invited to give a 6-hour tutorial at **RL China 2024**.
 - 2024-May Two papers have been accepted to the main conference of [ACL 2024](https://2024.aclweb.org/).
 - 2024-Feb One paper has been accepted to [NAACL 2024](https://2024.naacl.org/) (Rationale-centric Counterfactual Data Augmentation).
 - 2024-Jan Three papers (**SuperContext**, FastDetect, and PandaLM) have been accepted to [ICLR 2024](https://iclr.cc/).
