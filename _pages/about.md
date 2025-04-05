@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color:red; font-size: 125%">**Actively Employing Interns/RAs, Masters, and PhDs**</span>
+<span style="color:red; font-size: 110%">**Actively Employing Interns/RAs, Masters, and PhDs**</span>
 
 
 **I will join SUSTech as an independent PI in 2025 Fall and build GenAI Lab**. I remain a visiting researcher with the AI Centre at UCL. I was fortunately supervised by Prof. Jun Wang, Prof. Yue Zhang, and Prof. Barry Smyth. My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing open-ended curiosity-driven exploration-based methods. 
