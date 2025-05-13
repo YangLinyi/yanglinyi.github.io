@@ -145,7 +145,7 @@ ___+ denotes corresponding author___
  
    Guangsheng Bao, Hongbo Zhang, **Linyi Yang**, Cunxiang Wang, Yue Zhang.
 
-   arXiv preprint 2024 (<font color=Blue>``COLING 2024``</font>). 
+   arXiv preprint 2024 (<font color=Blue>``COLING 2024 (Oral)``</font>). 
 
 - (28) A Survey on Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/abs/2307.03109); [![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Code+Stars)](https://github.com/MLGroupJLU/LLM-eval-survey)
 
@@ -163,7 +163,7 @@ ___+ denotes corresponding author___
 
   **Linyi Yang**,Yingpeng Ma, Yue Zhang.
 
-  The 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (<font color=Blue>``ACL 2023``</font>).
+  The 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (<font color=Blue>``ACL 2023 (Oral)``</font>).
 
 - (25) GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective. [\[paper\]](https://arxiv.org/abs/2211.08073); [![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Code+Stars)](https://github.com/YangLinyi/GLUE-X)
 
@@ -217,19 +217,19 @@ ___+ denotes corresponding author___
 
   **Jinghui Lu***, **Linyi Yang***, Brian Mac Namee, Yue Zhang.
 
-  ACL (<font color=Blue>``ACL 2022``</font>).
+  ACL (<font color=Blue>``ACL 2022 (Oral)``</font>).
   
 - (16) FactMix: Using a Few Labeled In-domain Examples to Generalize to Cross-domain Named Entity Recognition. [\[paper\]](https://arxiv.org/abs/2208.11464)
 
   **Linyi Yang***, **Lifan Yuan***, Leyang Cui, Wenyang Gao, Yue Zhang.
 
-  COLING (<font color=Blue>``COLING 2022``</font>).
+  COLING (<font color=Blue>``COLING 2022 (Oral)``</font>).
 
 - (15) NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting. [\[paper\]](https://arxiv.org/abs/2201.01770)
 
   **Linyi Yang**, Jiazheng Li, Ruihai Dong, Yue Zhang, Barry Smyth.
 
-  AAAI (<font color=Blue>``AAAI 2022``</font>).
+  AAAI (<font color=Blue>``AAAI 2022 (Oral)``</font>).
   
 - (14)  Towards Fine-grained Causal Reasoning and QA. [\[paper\]](https://arxiv.org/abs/2204.07408)
 
@@ -241,25 +241,25 @@ ___+ denotes corresponding author___
 
   **Linyi Yang**, Jiazheng Li, Pádraig Cunningham, Yue Zhang, Barry Smyth, Ruihai Dong.
 
-  We propose an alternative to automatically generating counterfactual data for data augmentation and explanation. (<font color=Blue>``ACL 2021``</font>).
+  We propose an alternative to automatically generating counterfactual data for data augmentation and explanation. (<font color=Blue>``ACL 2021 (Oral)``</font>).
 
 - (12)  Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification. [\[paper\]](https://arxiv.org/pdf/2010.12512)
 
   **Linyi Yang**, Eoin M Kenny, Tin Lok James Ng, Yi Yang, Barry Smyth, Ruihai Dong.
 
-  This paper proposes a novel methodology for producing plausible counterfactual explanations (<font color=Blue>``COLING 2020``</font>).
+  This paper proposes a novel methodology for producing plausible counterfactual explanations (<font color=Blue>``COLING 2020 (Oral)``</font>).
 
 - (11)  MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412879)
 
   **Linyi Yang**, Jiazheng Li, Barry Smyth, Ruihai Dong.
 
-  We introduce a new, large-scale multi-modal, text-audio paired, earnings-call dataset named MAEC, based on S\&P 1500 companies.  (<font color=Blue>``CIKM 2020``</font>).
+  We introduce a new, large-scale multi-modal, text-audio paired, earnings-call dataset named MAEC, based on S\&P 1500 companies.  (<font color=Blue>``CIKM 2020 (Oral)``</font>).
 
 - (10)  HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380128)
 
   **Linyi Yang**, Tin Lok James Ng, Barry Smyth, Ruihai Dong.
   
-  This paper proposes a novel hierarchical, transformer, multi-task architecture to harness the text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020``</font>).
+  This paper proposes a novel hierarchical, transformer, multi-task architecture to harness the text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020 (Oral)``</font>).
   
 # 🎤 Invited Talks
 - Zhejiang Lab, Hangzhou, 2024
