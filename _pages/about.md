@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color:red; font-size: 100%">**Actively Employing Interns/RAs, Masters, and PhDs**</span>
+<span style="color:red; font-size: 100%">**Actively Employing Interns/RAs, 26 Fall Masters, and 26 Fall PhDs**</span>
 
 
 I will join the Statistics and Data Science Department at Southern University of Science and Technology (SUSTech) as the independent principal investigator, leading the GenAI Lab. I plan to recruit PhD students and several Postdoc/RA/Visiting Students. PhD students will be admitted in Fall 2025, and Postdoc/RA/Visiting Students can join in 2025. 
