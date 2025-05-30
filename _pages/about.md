@@ -58,6 +58,18 @@ ___+ denotes corresponding author___
 
 # 📝 Publications
 
+- (45) Constrain Alignment with Sparse Autoencoders
+
+  Qingyu Yin, Chak Tou Leong, Hongbo Zhang, Minjun Zhu, Hanqi Yan, Qiang Zhang, Yulan He, Wenjie Li, Jun Wang, Yue Zhang, **Linyi Yang**
+
+  The 62nd Annual Meeting of the Association for Computational Linguistics (<font color=Blue>``ACL 2025``</font>). 
+
+- (44) DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process
+
+  Minjun Zhu, Yixuan Weng, **Linyi Yang**, Yue Zhang
+
+  The 62nd Annual Meeting of the Association for Computational Linguistics (<font color=Blue>``ACL 2025``</font>). 
+
 - (43) Pre-Training a Graph Recurrent Network for Text Understanding
 
   Yile Wang, **Linyi Yang**, Zhiyang Teng, Ming Zhou, Yue Zhang
