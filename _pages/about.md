@@ -62,7 +62,7 @@ ___+ denotes corresponding author___
 
   Qingyu Yin, Chak Tou Leong, Hongbo Zhang, Minjun Zhu, Hanqi Yan, Qiang Zhang, Yulan He, Wenjie Li, Jun Wang, Yue Zhang, **Linyi Yang**
 
-  The 62nd Annual Meeting of the Association for Computational Linguistics (<font color=Blue>``ACL 2025``</font>). 
+  Forty-Second International Conference on Machine Learning (<font color=Blue>``ICML 2025``</font>). 
 
 - (44) DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process
 
