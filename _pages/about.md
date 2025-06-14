@@ -59,13 +59,9 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
   
   Jiayi Fu (**Master from Fudan University**)
   
-  Jiayao Chen (**Master/Undergraduate from Shenzhen University (Top 1)**)
+  Jiayao Chen (**Master from Shenzhen University (Top 1)**)
   
   Shi Liu (**Master from Hongkong University**)
-  
-  Huichi Zhou (**Master from Imperial College London, co-supervised with Prof Jun Wang**)
-  
-  Bowen Zhao (**Master from Fudan University, co-supervised with Prof Jun Wang**)
   
 - Master Students:
   
