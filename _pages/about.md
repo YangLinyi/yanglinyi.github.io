@@ -56,13 +56,21 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 # ![image](https://github.com/user-attachments/assets/1507999a-4319-439c-9bea-87ce7ac91f51) Teams
 
 - PhD Students:
+  
   Jiayi Fu (**Master from Fudan University**)
+  
   Jiayao Chen (**Master/Undergraduate from Shenzhen University (Top 1)**)
+  
   Shi Liu (**Master from Hongkong University**)
+  
   Huichi Zhou (**Master from Imperial College London, co-supervised with Prof Jun Wang**)
+  
   Bowen Zhao (**Master from Fudan University, co-supervised with Prof Jun Wang**)
+  
 - Master Students:
+  
   Junhao Ma (**Undergraduate from SUSTech**)
+  
   Lang Yang (**South China University of Technology**)
 
 ___* denotes equal contribution___
