@@ -57,17 +57,17 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 
 - PhD Students:
   
-  Jiayi Fu (**Master from Fudan University**)
+  Jiayi Fu (**Fudan University**)
+
+  Shi Liu (**The University of Hong Kong**)
   
-  Jiayao Chen (**Master from Shenzhen University (Top 1)**)
-  
-  Shi Liu (**Master from The University of Hong Kong**)
+  Jiayao Chen (**Shenzhen University (Top 1)**)
   
 - Master Students:
   
-  Junhao Ma (**Undergraduate from SUSTech**)
+  Junhao Ma (**SUSTech**)
   
-  Lang Yang (**Undergraduate from South China University of Technology**)
+  Lang Yang (**South China University of Technology**)
 
 ___* denotes equal contribution___
 ___+ denotes corresponding author___
