@@ -69,10 +69,15 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
   
   Lang Yang (**South China University of Technology**)
 
-___* denotes equal contribution___
-___+ denotes corresponding author___
+- Research Assistants:
+
+  Ji Zhang (**Oxford University**)
+
 
 # 📝 Publications
+
+___* denotes equal contribution___
+___+ denotes corresponding author___
 
 - (45) Constrain Alignment with Sparse Autoencoders
 
