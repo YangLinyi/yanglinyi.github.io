@@ -71,7 +71,7 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 
 - Research Assistants:
 
-  Ji Zhang (**Oxford University**)
+  Qi Zhang (**Oxford University**)
 
 
 # 📝 Publications
