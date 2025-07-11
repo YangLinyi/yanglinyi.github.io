@@ -57,11 +57,11 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 
 - PhD Students:
   
-  Jiayi Fu (**Fudan University**)
+  Jiayi Fu (**Master@Fudan University**)
 
-  Shi Liu (**The University of Hong Kong**)
+  Shi Liu (**Master@The University of Hong Kong**)
   
-  Jiayao Chen (**Shenzhen University (Top 1)**)
+  Jiayao Chen (**Master@Shenzhen University (Top 1)**)
   
 - Master Students:
   
@@ -72,7 +72,7 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 - Research Assistants:
 
   Qi Zhang (**Oxford University**)
-
+  Lam Nguyen (**SUSTech**)
 
 # 📝 Publications
 
