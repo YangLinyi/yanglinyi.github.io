@@ -23,9 +23,9 @@ redirect_from:
 
 I will join the Statistics and Data Science Department at Southern University of Science and Technology (SUSTech) as the independent principal investigator, leading the GenAI Lab. I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
-Previously, I was fortunately supervised by Prof. Jun Wang at UCL, Prof. Barry Smyth at UCD, and Prof. Yue Zhang. My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing open-ended curiosity-driven exploration-based methods.  I served as an **Area Chair** at ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. 
+Previously, I was fortunate to be supervised by Prof. Jun Wang at UCL, Prof. Barry Smyth at UCD, and Prof. Yue Zhang. My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing open-ended curiosity-driven exploration-based methods.  I served as an **Area Chair** at ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. 
 
-I have published more than 40 papers, at top-tier conferences, such as ICLR, NeurIPS, ACL, AAAI, EMNLP, and WWW, including 11 co-leading Core A* (CCF-A) papers with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published more than 40 papers at top-tier conferences, such as ICLR, NeurIPS, ACL, AAAI, EMNLP, and WWW, including 11 co-leading Core A* (CCF-A) papers with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🏆 Honors and Awards
 - Area Chair: **ACL 2025; EMNLP 2023; CIKM 2022; IJCAI 2023 (SPC)**;  Associate Editor: TIST.
@@ -35,7 +35,7 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 - Best Paper Candidate, CCIS, 2018.
 
 # 🌱 Repository
-[ **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[GLUE-X](https://github.com/YangLinyi/GLUE-X)** ![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
+[ **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
 
 
 # ⚡ News
@@ -66,7 +66,6 @@ I have published more than 40 papers, at top-tier conferences, such as ICLR, Neu
 - Master Students:
   
   Junhao Ma (**SUSTech**)
-  
   Lang Yang (**South China University of Technology**)
 
 - Research Assistants:
