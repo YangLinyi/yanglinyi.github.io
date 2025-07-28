@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color:red; font-size: 100%">**Actively Employing Interns/RAs, 26 Fall Masters, and 26 Fall PhDs**</span>
+<span style="color:red; font-size: 100%">**Actively Employing 26 Fall Masters, and PhDs**</span>
 
 
 I will join the Statistics and Data Science Department at Southern University of Science and Technology (SUSTech) as the independent principal investigator, leading the GenAI Lab. I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
@@ -33,25 +33,6 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 - Outstanding Postdoc Researcher, 2022.
 - Outstanding Self-financed Students Abroad (Special Awards, Only 1 Winner in Ireland, 50 Winners in total), 2021.
 - Best Paper Candidate, CCIS, 2018.
-
-# 🌱 Repository
-[ **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
-
-
-# ⚡ News
-- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper (MMQA). Congratulations to Jian, Minjun, Yixuan, and Qiujie. They published their first Core A* papers on ICLR 2025!
-- 2024-Dec I served as an **Area Chair** at ACL 2025, and a reviewer at NeurIPS 2024, ICML 2025, and ICLR 2025.
-- 2024-Nov Our tutorial on LLM Evaluation has been accepted to **AAAI-24**.
-- 2024-Oct I have been invited to give a 6-hour tutorial at **RL China 2024**.
-- 2024-May Two papers have been accepted to the main conference of [ACL 2024](https://2024.aclweb.org/).
-- 2024-Feb One paper has been accepted to [NAACL 2024](https://2024.naacl.org/) (Rationale-centric Counterfactual Data Augmentation).
-- 2024-Jan Three papers (**SuperContext**, FastDetect, and PandaLM) have been accepted to [ICLR 2024](https://iclr.cc/).
-- 2023-Dec One paper has been accepted to [EMNLP 2023](https://2023.emnlp.org/).
-- 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Model with Dr. Jindong Wang and Prof. Qiang Yang.
-- 2023-May Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three leading author papers).
-- 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
-- Area Chair / Senior Programme Committee (SPC): EMNLP-22; CIKM-22; IJCAI-23; ACL-25.
-- PC Member/Reviewer: CIKM-20; SIGIR-21; CKIM-21; EMNLP 2021-2024; ACL 2021-2024; COLING 2022-2024; TASLP; TALLIP; TBD; TKDE.
 
 # ![image](https://github.com/user-attachments/assets/1507999a-4319-439c-9bea-87ce7ac91f51) Team Members
 
@@ -72,6 +53,27 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 
   Qi Zhang (**Oxford University**)
   Lam Nguyen (**SUSTech**)
+
+# 🌱 Repository
+[ **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
+
+
+# ⚡ News
+- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper (MMQA). Congratulations to Jian, Minjun, Yixuan, and Qiujie. They published their first Core A* papers on ICLR 2025!
+- 2024-Dec I served as an **Area Chair** at ACL 2025, and a reviewer at NeurIPS 2024, ICML 2025, and ICLR 2025.
+- 2024-Nov Our tutorial on LLM Evaluation has been accepted to **AAAI-24**.
+- 2024-Oct I have been invited to give a 6-hour tutorial at **RL China 2024**.
+- 2024-May Two papers have been accepted to the main conference of [ACL 2024](https://2024.aclweb.org/).
+- 2024-Feb One paper has been accepted to [NAACL 2024](https://2024.naacl.org/) (Rationale-centric Counterfactual Data Augmentation).
+- 2024-Jan Three papers (**SuperContext**, FastDetect, and PandaLM) have been accepted to [ICLR 2024](https://iclr.cc/).
+- 2023-Dec One paper has been accepted to [EMNLP 2023](https://2023.emnlp.org/).
+- 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Model with Dr. Jindong Wang and Prof. Qiang Yang.
+- 2023-May Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three leading author papers).
+- 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
+- Area Chair / Senior Programme Committee (SPC): EMNLP-22; CIKM-22; IJCAI-23; ACL-25.
+- PC Member/Reviewer: CIKM-20; SIGIR-21; CKIM-21; EMNLP 2021-2024; ACL 2021-2024; COLING 2022-2024; TASLP; TALLIP; TBD; TKDE.
+
+
 
 # 📝 Publications
 
