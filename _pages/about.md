@@ -21,7 +21,7 @@ redirect_from:
 <span style="color:red; font-size: 100%">**Actively Employing 26 Fall Masters, and PhDs**</span>
 
 
-I will join the Statistics and Data Science Department at Southern University of Science and Technology (SUSTech) as the independent principal investigator, leading the GenAI Lab. I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
+I will join the Statistics and Data Science Department at Southern University of Science and Technology (SUSTech) as an associate researcher and assistant professor, leading the GenAI Lab. I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
 Previously, I was fortunate to be supervised by Prof. Jun Wang at UCL, Prof. Barry Smyth at UCD, and Prof. Yue Zhang. My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing open-ended curiosity-driven exploration-based methods.  I served as an **Area Chair** at ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. 
 
