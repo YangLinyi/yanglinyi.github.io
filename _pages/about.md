@@ -84,55 +84,55 @@ ___+ denotes corresponding author___
 
   Qingyu Yin, Chak Tou Leong, Hongbo Zhang, Minjun Zhu, Hanqi Yan, Qiang Zhang, Yulan He, Wenjie Li, Jun Wang, Yue Zhang, **Linyi Yang**
 
-  Forty-Second International Conference on Machine Learning (<font color=Blue>``ICML 2025``</font>). 
+  Forty-Second International Conference on Machine Learning (<font color=Blue>``ICML 2025, CCF-A``</font>). 
 
 - (44) DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process
 
   Minjun Zhu, Yixuan Weng, **Linyi Yang**, Yue Zhang
 
-  The 62nd Annual Meeting of the Association for Computational Linguistics (<font color=Blue>``ACL 2025``</font>). 
+  The 62nd Annual Meeting of the Association for Computational Linguistics (<font color=Blue>``ACL 2025, CCF-A``</font>). 
 
 - (43) Pre-Training a Graph Recurrent Network for Text Understanding
 
   Yile Wang, **Linyi Yang**, Zhiyang Teng, Ming Zhou, Yue Zhang
 
-  IEEE Transactions on Pattern Analysis and Machine Intelligence 2025 (<font color=Blue>``TPAMI``</font>). 
+  IEEE Transactions on Pattern Analysis and Machine Intelligence 2025 (<font color=Blue>``TPAMI, CCF-A``</font>). 
 
 - (42) An Empirical Analysis of Uncertainty in Large Language Model Evaluations.
   
   Qiujie Xie, Qingqiu Li, Zhuohao Yu, Yuejie Zhang, Yue Zhang, **Linyi Yang+**.
 
-  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025, Tsinghua-A``</font>).
   
 - (41) CycleResearcher: Improving Automated Research via Automated Review.
   
   Yixuan Weng, Minjun Zhu, Guangsheng Bao, Hongbo Zhang, Jindong Wang, Yue Zhang+, **Linyi Yang+**.
   
-  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025, Tsinghua-A``</font>).
 
 - (40) Personality Alignment of Large Language Models.
   
   Minjun Zhu, Yixuan Weng, **Linyi Yang**, Yue Zhang.
   
-  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025, Tsinghua-A``</font>).
 
 - (39) MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions.
   
   Jian Wu, **Linyi Yang**, Dongyuan Li, Yuliang Ji, Manabu Okumura, Yue Zhang.
   
-  International Conference on Learning Representations 2025 (average score: 8, top 20) (<font color=Blue>``ICLR 2025``</font>).
+  International Conference on Learning Representations 2025 (average score: 8, top 20) (<font color=Blue>``ICLR 2025, Tsinghua-A``</font>).
 
 - (38) CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark.
   
   Jian Wu, **Linyi Yang**, Zhen Wang, Manabu Okumura, Yue Zhang.
   
-  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025, Tsinghua-A``</font>).
 
 - (37) Human Simulacra: Benchmarking the Personification of Large Language Models.
   
   Qiujie Xie, Qiming Feng, Tianqi Zhang, Qingqiu Li, **Linyi Yang**, Yuejie Zhang, Rui Feng, Liang He, Shang Gao, Yue Zhang.
   
-  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025``</font>).
+  International Conference on Learning Representations 2025 (<font color=Blue>``ICLR 2025, Tsinghua-A``</font>).
 
 - (36) PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
   
@@ -144,13 +144,13 @@ ___+ denotes corresponding author___
 
   Mengru Wang, Ningyu Zhang, Ziwen Xu, Zekun Xi, Shumin Deng, Yunzhi Yao, Qishen Zhang, **Linyi Yang**, Jindong Wang, Huajun Chen.
 
-  The 62nd Annual Meeting of the Association for Computational Linguistics (<font color=Blue>``ACL 2024``</font>).
+  The 62nd Annual Meeting of the Association for Computational Linguistics (<font color=Blue>``ACL 2024, CCF-A``</font>).
 
 - (34) Deepfake text detection in the wild. [\[paper\]](https://arxiv.org/pdf/2305.13242)
 
   Yafu Li, Qintong Li, Leyang Cui, Wei Bi, Longyue Wang, **Linyi Yang**, Shuming Shi, Yue Zhang.
 
-  The 62nd Annual Meeting of the Association for Computational Linguistics (<font color=Blue>``ACL 2024``</font>).
+  The 62nd Annual Meeting of the Association for Computational Linguistics (<font color=Blue>``ACL 2024, CCF-A``</font>).
 
 - (33) A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution. [\[paper\]](https://arxiv.org/abs/2404.01921)
   
@@ -162,19 +162,19 @@ ___+ denotes corresponding author___
   
   Yidong Wang, Zhuohao Yu, Zhengran Zeng, **Linyi Yang**, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
   
-  International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
+  International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024, Tsinghua-A``</font>).
 
 - (31) Supervised Knowledge Makes Large Language Models Better In-context Learners. [\[paper\]](https://arxiv.org/pdf/2312.15918.pdf)
   
   **Linyi Yang**, Shuibai Zhang, Zhuohao Yu, Guangsheng Bao, Yidong Wang, Jindong Wang, Ruochen Xu, Wei Ye, Xing Xie, Weizhu Chen, Yue Zhang.
   
-  International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
+  International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024, Tsinghua-A``</font>).
 
 - (30) Fast-DetectGPT: Efficient zero-shot detection of machine-generated text via conditional probability curvature. [\[paper\]](https://arxiv.org/abs/2310.05130.pdf)
   
   Guangsheng Bao, Yanbin Zhao, Zhiyang Teng, Linyi Yang, Yue Zhang.
   
-  International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
+  International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024, Tsinghua-A``</font>).
 
 - (29) LLMs with Chain-of-Thought Are Non-Causal Reasoners. [\[paper\]](https://arxiv.org/pdf/2402.16048)
  
@@ -204,19 +204,19 @@ ___+ denotes corresponding author___
 
   **Linyi Yang**, Shuibai Zhang, Libo Qin, Yafu Li, Yidong Wang, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang.
 
-  Findings of the Association for Computational Linguistics: ACL 2023 (<font color=Blue>``ACL 2023``</font>).
+  Findings of the Association for Computational Linguistics: ACL 2023 (<font color=Blue>``ACL 2023, CCF-A``</font>).
 
 - (24) Learning to Generalize for Cross-domain QA. [\[paper\]](https://arxiv.org/pdf/2305.08208)
 
   Yingjie Niu*, **Linyi Yang***, Ruihai Dong, Yue Zhang.
 
-  Findings of the Association for Computational Linguistics: ACL 2023 (<font color=Blue>``ACL 2023``</font>).
+  Findings of the Association for Computational Linguistics: ACL 2023 (<font color=Blue>``ACL 2023, CCF-A``</font>).
 
 - (23) Exploiting Rich Textual User-Product Context for Improving Personalized Sentiment Analysis. [\[paper\]](https://doras.dcu.ie/29140/1/2023.findings-acl.92.pdf)
 
   Chenyang Lyu, Linyi Yang, Yue Zhang, Yvette Graham, Jennifer Foster.
 
-  Findings of the Association for Computational Linguistics: ACL 2023 (<font color=Blue>``ACL 2023``</font>).
+  Findings of the Association for Computational Linguistics: ACL 2023 (<font color=Blue>``ACL 2023, CCF-A``</font>).
 
 - (22) On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective. [\[paper\]](https://arxiv.org/abs/2302.12095); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/chatgpt-robust)
   
@@ -228,13 +228,13 @@ ___+ denotes corresponding author___
 
   Fang Guo, Yun Luo, **Linyi Yang**, Yue Zhang.
 
-  The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<font color=Blue>``SIGIR 2023``</font>).
+  The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<font color=Blue>``SIGIR 2023, CCF-A``</font>).
 
 - (20) Graph-Based Video-Language Learning with Multi-Grained Audio-Visual Alignment. [\[paper\]](https://dl.acm.org/doi/proceedings/10.1145/3581783)
 
   Chenyang Lyu, Wenxi Li, Tianbo Ji, Longyue Wang, Liting Zhou, Cathal Gurrin, **Linyi Yang**, Yi Yu, Yvette Graham, Jennifer Foster.
 
-  Proceedings of the 31st ACM International Conference on Multimedia (<font color=Blue>``MM 2023``</font>).
+  Proceedings of the 31st ACM International Conference on Multimedia (<font color=Blue>``MM 2023, CCF-A``</font>).
 
 - (19) Survey on factuality in large language models: Knowledge, retrieval and domain-specificity. [\[paper\]](https://arxiv.org/pdf/2310.07521)
 
@@ -246,13 +246,13 @@ ___+ denotes corresponding author___
 
   Yidong Wang, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, **Linyi Yang**, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang.
 
-  NeurIPS Dataset and Benchmark (<font color=Blue>``NeurIPS 2022``</font>).
+  NeurIPS Dataset and Benchmark (<font color=Blue>``NeurIPS 2022, CCF-A``</font>).
 
 - (17) A Rationale-Centric Framework for Human-in-the-loop Machine Learning. [\[paper\]](https://arxiv.org/pdf/2203.12918)
 
   **Jinghui Lu***, **Linyi Yang***, Brian Mac Namee, Yue Zhang.
 
-  ACL (<font color=Blue>``ACL 2022 (Oral)``</font>).
+  ACL (<font color=Blue>``ACL 2022 (Oral), CCF-A``</font>).
   
 - (16) FactMix: Using a Few Labeled In-domain Examples to Generalize to Cross-domain Named Entity Recognition. [\[paper\]](https://arxiv.org/abs/2208.11464)
 
@@ -264,7 +264,7 @@ ___+ denotes corresponding author___
 
   **Linyi Yang**, Jiazheng Li, Ruihai Dong, Yue Zhang, Barry Smyth.
 
-  AAAI (<font color=Blue>``AAAI 2022 (Oral)``</font>).
+  AAAI (<font color=Blue>``AAAI 2022 (Oral), CCF-A``</font>).
   
 - (14)  Towards Fine-grained Causal Reasoning and QA. [\[paper\]](https://arxiv.org/abs/2204.07408)
 
@@ -276,7 +276,7 @@ ___+ denotes corresponding author___
 
   **Linyi Yang**, Jiazheng Li, Pádraig Cunningham, Yue Zhang, Barry Smyth, Ruihai Dong.
 
-  We propose an alternative to automatically generating counterfactual data for data augmentation and explanation. (<font color=Blue>``ACL 2021 (Oral)``</font>).
+  We propose an alternative to automatically generating counterfactual data for data augmentation and explanation. (<font color=Blue>``ACL 2021 (Oral), CCF-A``</font>).
 
 - (12)  Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification. [\[paper\]](https://arxiv.org/pdf/2010.12512)
 
@@ -294,7 +294,7 @@ ___+ denotes corresponding author___
 
   **Linyi Yang**, Tin Lok James Ng, Barry Smyth, Ruihai Dong.
   
-  This paper proposes a novel hierarchical, transformer, multi-task architecture to harness the text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020 (Oral)``</font>).
+  This paper proposes a novel hierarchical, transformer, multi-task architecture to harness the text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020 (Oral), CCF-A``</font>).
   
 # 🎤 Invited Talks
 - Zhejiang Lab, Hangzhou, 2024
