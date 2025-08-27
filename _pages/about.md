@@ -42,7 +42,9 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 
   Shi Liu (**Master@The University of Hong Kong**)
   
-  Jiayao Chen (**Master@Shenzhen University (Top 1)**)
+  Jiayao Chen (**Master@Shenzhen University**)
+
+  Huichi Zhou (**Master@Imperial College London**, co-supervised PhD)
   
 - Master Students:
   
@@ -51,11 +53,12 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 
 - Research Assistants:
 
-  Qi Zhang (**Oxford University**)
   Lam Nguyen (**SUSTech**)
+  Qi Zhang (**Oxford University**)
+  Zihan Wang (**Xi'an Jiaotong University**)
 
 # 🌱 Repository
-[ **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
+[ **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[PandaLM](https://github.com/WeOpenML/PandaLM)** ![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Stars)] | **[PromptBench](https://github.com/microsoft/promptbench)** ![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
 
 
 # ⚡ News
