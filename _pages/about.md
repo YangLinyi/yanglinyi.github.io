@@ -36,22 +36,6 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 
 # ![image](https://github.com/user-attachments/assets/1507999a-4319-439c-9bea-87ce7ac91f51) Team Members
 
-- PhD Students:
-  
-  Jiayi Fu (**Master@Fudan University**)
-
-  Shi Liu (**Master@The University of Hong Kong**)
-  
-  Jiayao Chen (**Master@Shenzhen University**)
-
-  Huichi Zhou (**Master@Imperial College London**, co-supervised PhD)
-  
-- Master Students:
-  
-  Junhao Ma (**SUSTech**)
-  
-  Lang Yang (**South China University of Technology**)
-
 - Research Assistants:
 
   Lam Nguyen (**SUSTech**)
