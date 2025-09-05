@@ -278,7 +278,7 @@ ___+ denotes corresponding author___
 
   **Linyi Yang**, Jiazheng Li, Barry Smyth, Ruihai Dong.
 
-  We introduce a new, large-scale multi-modal, text-audio paired, earnings-call dataset named MAEC, based on S\&P 1500 companies.  (<font color=Blue>``CIKM 2020 (Oral)``</font>).
+  We introduce a new, large-scale, multi-modal, text-audio paired, earnings-call dataset named MAEC, based on S&P 1500 companies.  (<font color=Blue>``CIKM 2020 (Oral)``</font>).
 
 - (10)  HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3366423.3380128)
 
@@ -287,6 +287,9 @@ ___+ denotes corresponding author___
   This paper proposes a novel hierarchical, transformer, multi-task architecture to harness the text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020 (Oral), CCF-A``</font>).
   
 # 🎤 Invited Talks
+- Shanghai Chuangzhi Lab, Shanghai, 2025
+- Shanghai Jiaotong University, Shanghai, 2025
+- SUSTech, Shenzhen, 2025
 - Zhejiang Lab, Hangzhou, 2024
 - HKUST (GZ), Guangzhou, 2024
 - HKUST, HongKong, 2024
