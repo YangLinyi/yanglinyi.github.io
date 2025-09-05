@@ -28,7 +28,7 @@ Previously, I was fortunate to be supervised by Prof. Jun Wang at UCL, Prof. Bar
 I have published more than 40 papers at top-tier conferences, such as ICLR, NeurIPS, ACL, AAAI, EMNLP, and WWW, including 11 co-leading Core A* (CCF-A) papers with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🏆 Honors and Awards
-- Area Chair: **ACL 2025; EMNLP 2023; CIKM 2022; IJCAI 2023 (SPC)**;  Associate Editor: TIST.
+- Area Chair: **ICLR 2025; ACL 2024-2025; EMNLP 2023; IJCAI 2023 (SPC); CIKM 2022**;  Associate Editor: TIST.
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
 - Outstanding Self-financed Students Abroad (Special Awards, Only 1 Winner in Ireland, 50 Winners in total), 2021.
