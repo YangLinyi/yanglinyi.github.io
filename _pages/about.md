@@ -45,13 +45,14 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
   Zihan Wang (**Xi'an Jiaotong University**)
 
 # 🌱 Repository
-[ **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
+[ **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
 
 
 # ⚡ News
-- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper (MMQA). Congratulations to Jian, Minjun, Yixuan, and Qiujie.
+- 2025-Sep **Two papers** have been accepted to [EMNLP 2025](https://2025.emnlp.org/), including an **oral** paper (ResearStudio).
+- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper.
 - 2024-Dec I served as an **Area Chair** at ACL 2025, and a reviewer at NeurIPS 2024, ICML 2025, and ICLR 2025.
-- 2024-Nov Our tutorial on LLM Evaluation has been accepted to **AAAI-24**.
+- 2024-Nov We gave the tutorial on LLM Evaluation at **AAAI 2024** and **CVPR 2025**.
 - 2024-Oct I have been invited to give a 6-hour tutorial at **RL China 2024**.
 - 2024-May Two papers have been accepted to the main conference of [ACL 2024](https://2024.aclweb.org/).
 - 2024-Feb One paper has been accepted to [NAACL 2024](https://2024.naacl.org/) (Rationale-centric Counterfactual Data Augmentation).
