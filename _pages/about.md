@@ -65,7 +65,9 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 
 
 # ⚡ GenAI Lab News
-- 2025-Sep **Two papers** have been accepted to [EMNLP 2025](https://2025.emnlp.org/), including an **oral** paper (ResearStudio).
+- 2025-Sep **Three papers** have been accepted to [NeurIPS 2025](https://neurips.cc/).
+- 2025-Aug **Two papers** have been accepted to [EMNLP 2025](https://2025.emnlp.org/), including an **oral** paper (ResearStudio).
+- 2025-Aug We released Memento, the open-source framework that achieves the state-of-the-art results on **GAIA**.
 - 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper.
 - 2024-Dec I served as an **Area Chair** at ACL 2025 and ICLR 2025.
 - 2024-Nov We gave the tutorial on LLM Evaluation at **AAAI 2024** and **CVPR 2025**.
