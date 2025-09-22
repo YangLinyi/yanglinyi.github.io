@@ -21,7 +21,7 @@ redirect_from:
 <span style="color:red; font-size: 100%">**Actively Employing 26 Fall Masters, and PhDs**</span>
 
 
- I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
+I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
 Previously, I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCL), and Prof. Yue Zhang (Westlake). My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing open-ended curiosity-driven exploration-based methods.  I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. 
 
@@ -52,13 +52,13 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 
 - Research Assistants:
 
-  Huichi Zhou (**Impirical College London**)
+  Huichi Zhou (Impirical College London)
      
-  Qi Zhang (**Oxford University**)
+  Qi Zhang (Oxford University)
   
-  Zihan Wang (**Tsinghua University (Shenzhen)**)
+  Zihan Wang (Tsinghua University (Shenzhen))
 
-  Lam Nguyen (**Tsinghua University (Shenzhen)**)
+  Lam Nguyen (Tsinghua University (Shenzhen))
 
 # 🌱 Repository
 [ **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
