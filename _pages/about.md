@@ -23,7 +23,7 @@ redirect_from:
 
 I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
-Previously, I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCL), and Prof. Yue Zhang (Westlake). My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing open-ended curiosity-driven exploration-based methods.  I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. 
+Previously, I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCD), and Prof. Yue Zhang (Westlake). My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing **open-ended curiosity-driven exploration-based** methods.  I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. 
 
 I have published more than 40 papers at top-tier conferences, such as ICLR, NeurIPS, ACL, AAAI, EMNLP, and WWW, including 11 co-leading Core A* (CCF-A) papers with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -306,13 +306,13 @@ ___+ denotes corresponding author___
   This paper proposes a novel hierarchical, transformer, multi-task architecture to harness the text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020 (Oral), CCF-A``</font>).
   
 # 🎤 Invited Talks
-- Shanghai Chuangzhi Lab, Shanghai, 2025
-- Shanghai Jiaotong University, Shanghai, 2025
-- SUSTech, Shenzhen, 2025
-- Zhejiang Lab, Hangzhou, 2024
-- HKUST (GZ), Guangzhou, 2024
-- HKUST, HongKong, 2024
-- Nanjing University, Nanjing, 2024
+- Shanghai Chuangzhi Lab, Shanghai, Sep. 2025
+- Shanghai Jiaotong University, Shanghai, Sep. 2025
+- SUSTech, Shenzhen, Apr. 2025
+- Zhejiang Lab, Hangzhou, Oct. 2024
+- Nanjing University, Nanjing, May. 2024
+- HKUST (GZ), Guangzhou, Mar. 2024
+- HKUST, Hong Kong, Mar. 2024
 - MSRA, Online, 2023
 - Shanghai AI Lab, Shanghai, China 2023
 - MLNLP, Online, China 2022
