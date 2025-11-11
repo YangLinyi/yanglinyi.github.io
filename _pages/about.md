@@ -52,6 +52,10 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 
 - Research Assistants:
 
+  Guanghao Jin (LMU)
+
+  Yanyun Liu (HKUST)
+
   Huichi Zhou (Impirical College London)
      
   Qi Zhang (Oxford University)
