@@ -51,6 +51,8 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
   Lang Yang (South China University of Technology)
 
 - Research Assistants:
+  
+  Yuhao Wang (NUS)
 
   Guanghao Jin (LMU)
 
