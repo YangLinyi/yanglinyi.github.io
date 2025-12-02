@@ -40,8 +40,6 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 
   Jiayao Chen (Shenzhen University)
   
-  Jiayi Fu (Fudan University)
-  
   Shi Liu (Hong Kong University)
 
 - Master Students:
