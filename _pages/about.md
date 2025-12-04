@@ -25,11 +25,11 @@ I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. 
 
 I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCD), and Prof. Yue Zhang (Westlake). I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. I have published some influential papers at top-tier conferences and have been featured by Huggingface and social media multiple times, with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-I designed the first Research-Review-Refinement process by using reinforcement learning based on LLMs, namely CycleResearcher [ICLR, 2025]. Before ChatGPT, I built the first large-scale out-of-distribution natural language understanding dataset, namely GLUE-X [ACL, 2023]. Interestingly, I tried to pre-train a large-scale graph recurrent network, instead of using transformers, achieving the state-of-the-art results [TPAMI, 2025]. Currently, I devote myself to **AI for Scientific Discovery**.
+I designed the first LLM-based Research-Review-Refinement process by using reinforcement learning, namely CycleResearcher [ICLR, 2025]. Interestingly, I tried to pre-train a large-scale graph recurrent network, instead of using transformers, achieving the state-of-the-art results [TPAMI, 2025]. Before ChatGPT, I built the first large-scale out-of-distribution natural language understanding dataset, namely GLUE-X [ACL, 2023]. Currently, I devote myself to **AI for Scientific Discovery**.
 
 
 # 🏆 Honors and Awards
-- Faculty and lecturer at the International Programme on [AI Evaluation](ai-evaluation.org)
+- Faculty and lecturer at the International Programme on [AI Evaluation](https://ai-evaluation.org) : Capabilities & Safety
 - Area Chair: **ICLR 2025; ACL 2024-2025; EMNLP 2023; IJCAI 2023 (SPC); CIKM 2022**;  Associate Editor: TIST.
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
