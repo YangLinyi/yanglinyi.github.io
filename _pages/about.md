@@ -21,13 +21,15 @@ redirect_from:
 <span style="color:red; font-size: 100%">**Actively Employing 26 Fall Masters, and PhDs**</span>
 
 
-I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
+I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing **open-ended curiosity-driven exploration-based** methods. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
-Previously, I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCD), and Prof. Yue Zhang (Westlake). My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing **open-ended curiosity-driven exploration-based** methods.  I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. 
+I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCD), and Prof. Yue Zhang (Westlake). I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. I have published some influential papers at top-tier conferences and have been featured by Huggingface and social media multiple times, with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-I have published more than 40 papers at top-tier conferences, such as ICLR, NeurIPS, ACL, AAAI, EMNLP, and WWW, including 11 co-leading Core A* (CCF-A) papers with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Previously, I designed the first Research-Review-Refinement process by using reinforcement learning based on LLMs, namely CycleResearcher [ICLR, 2025]. Previously, I built the first large-scale out-of-distribution natural language understanding dataset, namely GLUE-X [ACL, 2025]. I tried to pre-train a large-scale graph recurrent network, instead of using transformers, achieving the state-of-the-art results on natural language understanding tasks [TPAMI, 2025]. Currently, I devote myself to **AI for Scientific Discovery**.
+
 
 # 🏆 Honors and Awards
+- Faculty and Lecture at the [International Programme on AI Evaluation: Capabilities and Safety](ai-evaluation.org)
 - Area Chair: **ICLR 2025; ACL 2024-2025; EMNLP 2023; IJCAI 2023 (SPC); CIKM 2022**;  Associate Editor: TIST.
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
@@ -86,7 +88,6 @@ I have published more than 40 papers at top-tier conferences, such as ICLR, Neur
 - 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 - Area Chair / Senior Programme Committee (SPC): EMNLP-22; CIKM-22; IJCAI-23; ACL-25.
 - PC Member/Reviewer: CIKM-20; SIGIR-21; CKIM-21; EMNLP 2021-2024; ACL 2021-2024; COLING 2022-2024; TASLP; TALLIP; TBD; TKDE.
-
 
 
 # 📝 Publications
