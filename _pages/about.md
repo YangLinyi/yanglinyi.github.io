@@ -29,7 +29,7 @@ I designed the first Research-Review-Refinement process by using reinforcement l
 
 
 # 🏆 Honors and Awards
-- Faculty and Lecture at the [International Programme on AI Evaluation: Capabilities and Safety](ai-evaluation.org)
+- Faculty and lecturer at the International Programme on [AI Evaluation](ai-evaluation.org)
 - Area Chair: **ICLR 2025; ACL 2024-2025; EMNLP 2023; IJCAI 2023 (SPC); CIKM 2022**;  Associate Editor: TIST.
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
