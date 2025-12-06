@@ -21,7 +21,7 @@ redirect_from:
 <span style="color:red; font-size: 100%">**Actively Employing 26 Fall Masters, and PhDs**</span>
 
 
-I am actively recruiting 26 Fall PhD students and Postdoc/RA/Visiting Students. My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing **open-ended curiosity-driven exploration-based** methods. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
+My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing **open-ended curiosity-driven exploration-based** methods. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
 I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCD), and Prof. Yue Zhang (Westlake). I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. I have published some influential papers at top-tier conferences and have been featured by Huggingface and social media multiple times, with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
