@@ -41,8 +41,10 @@ Currently, I devote myself to **AI for Scientific Discovery**.
 # ![image](https://github.com/user-attachments/assets/1507999a-4319-439c-9bea-87ce7ac91f51) Team Members
 
 - PhD Students:
-
+  
   Jiayao Chen (Shenzhen University)
+
+  Jiayao Fu (Fudan University)
   
   Shi Liu (Hong Kong University)
 
