@@ -75,6 +75,7 @@ Currently, I devote myself to **AI for Scientific Discovery**.
 
 
 # News
+- 2025-Dec One paper has been accepted to **TASLP** (Multilingual Cultural Evaluation of LLMs).
 - 2025-Nov Served as the **Best Paper Committee Chair** at [ICAIS 2025](https://icais.ai/).
 - 2025-Sep **Three papers** have been accepted to [NeurIPS 2025](https://neurips.cc/).
 - 2025-Aug **Two papers** have been accepted to [EMNLP 2025](https://2025.emnlp.org/), including an **oral** paper (ResearStudio).
