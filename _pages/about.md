@@ -55,20 +55,25 @@ Currently, I devote myself to **AI for Scientific Discovery**.
   Lang Yang (South China University of Technology)
 
 - Research Assistants:
-  
-  Yuhao Wang (NUS)
 
-  Guanghao Jin (LMU)
-
-  Yanyun Liu (HKUST)
-
-  Huichi Zhou (Impirical College London)
-     
   Qi Zhang (Oxford University)
   
   Zihan Wang (Tsinghua University (Shenzhen))
 
   Lam Nguyen (Tsinghua University (Shenzhen))
+
+  Huichi Zhou (Impirical College London)
+
+  Guanghao Jin (LMU)
+
+  Yanyun Liu (HKUST)
+
+  Yuhao Wang (NUS)
+
+  Zhichen Zhao (HKUST)
+
+  Xinyu Zhou (HKU)
+
 
 # Repository
 [ **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
