@@ -44,7 +44,7 @@ Currently, I devote myself to **AI for Scientific Discovery**.
   
   Jiayao Chen (Shenzhen University)
 
-  Jiayao Fu (Fudan University)
+  Jiayi Fu (Fudan University)
   
   Shi Liu (Hong Kong University)
 
