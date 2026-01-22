@@ -84,7 +84,7 @@ Currently, I devote myself to **AI for Scientific Discovery**.
 - 2025-Dec One paper has been accepted to **TASLP** (Multilingual Cultural Evaluation of LLMs).
 - 2025-Nov Served as the **Best Paper Committee Chair** at [ICAIS 2025](https://icais.ai/).
 - 2025-Sep **Three papers** have been accepted to [NeurIPS 2025](https://neurips.cc/).
-- 2025-Aug **Two papers** have been accepted to [EMNLP 2025](https://2025.emnlp.org/), including an **oral** paper (ResearStudio).
+- 2025-Aug **Two papers** have been accepted to [EMNLP 2025](https://2025.emnlp.org/).
 - 2025-Aug We released **Memento**, the open-source framework that achieves the state-of-the-art results on **GAIA**.
 - 2025-Jul Feature-level alignment (FPO) has been accepted to [ICML 2025](https://icml.cc/virtual/2025/poster/46128).
 - 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper.
