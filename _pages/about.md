@@ -18,17 +18,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color:red; font-size: 100%">**Actively Employing 26 Fall Masters, and PhDs**</span>
-
-
-My research interests are building AI co-scientists, enhancing LLMs' reasoning capabilities, and designing **open-ended curiosity-driven exploration-based** methods. If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
-
 I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCD), and Prof. Yue Zhang (Westlake). I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. I have published some influential papers at top-tier conferences and have been featured by Huggingface and social media multiple times, with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-I designed the first LLM-based Research-Review-Refinement process by using reinforcement learning, namely CycleResearcher [ICLR, 2025]. I contributed a first-of-its-kind Collaborative Learning of Large and Small Language Models, achieving the state-of-the-art OOD testing results [ICLR, 2024]. Before ChatGPT, I built the first large-scale out-of-distribution natural language understanding dataset, namely GLUE-X [ACL, 2023]. I tried to pre-train a large-scale graph recurrent network, instead of using transformers, achieving the state-of-the-art results, especially in efficiency [TPAMI, 2025] (second author). 
+My research interests are building AI co-scientists and designing **open-ended curiosity-driven exploration-based** methods. Previously, I designed the first LLM-based Research-Review-Refinement process by using reinforcement learning, namely CycleResearcher [ICLR, 2025]. I contributed a first-of-its-kind Collaborative Learning of Large and Small Language Models, achieving the state-of-the-art OOD testing results [ICLR, 2024]. Before ChatGPT, I built the first large-scale out-of-distribution natural language understanding dataset, namely GLUE-X [ACL, 2023]. I tried to pre-train a large-scale graph recurrent network, instead of using transformers, achieving the state-of-the-art results, especially in efficiency [TPAMI, 2025] (second author). Currently, I devote myself to **AI for Scientific Discovery**.
 
-Currently, I devote myself to **AI for Scientific Discovery**.
-
+If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
 # 🏆 Honors and Awards
 - Faculty and lecturer at the International Programme on [AI Evaluation](https://ai-evaluation.org): Capabilities & Safety
@@ -48,6 +42,10 @@ Currently, I devote myself to **AI for Scientific Discovery**.
   
   Shi Liu (Hong Kong University)
 
+  Guanghao Jin (LMU, 26 Fall)
+
+  Yanyun Liu (HKUST, 26 Fall)
+
 - Master Students:
 
   Junhao Ma (SUSTech)
@@ -62,18 +60,13 @@ Currently, I devote myself to **AI for Scientific Discovery**.
 
   Lam Nguyen (Tsinghua University (Shenzhen))
 
-  Huichi Zhou (Impirical College London)
-
-  Guanghao Jin (LMU)
-
-  Yanyun Liu (HKUST)
-
   Yuhao Wang (NUS)
 
   Zhichen Zhao (HKUST)
 
   Xinyu Zhou (HKU)
 
+  Hanlin Song (South China University of Technology)
 
 # Repository
 [ **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
