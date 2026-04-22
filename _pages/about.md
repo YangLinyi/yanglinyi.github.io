@@ -68,7 +68,7 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 # Alumni
 
-  Zihan Wang (Admission: Xi'an Jiaotong University -> Tsinghua University (Shenzhen); Outcome: ACL Findings*1)
+  Zihan Wang (RA, Admission: **Tsinghua University (Shenzhen)**; Outcome: **ACL Findings*1**)
 
 # Repository
 [ **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
