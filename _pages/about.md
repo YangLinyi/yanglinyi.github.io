@@ -34,6 +34,10 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 # ![image](https://github.com/user-attachments/assets/1507999a-4319-439c-9bea-87ce7ac91f51) Team Members
 
+- Postdoc:
+  
+  Abdur Rasool (Shenzhen University -> U.S. postdoc -> SUSTech, co-supervised with Prof. Yanqing Hu)
+  
 - PhD Students:
   
   Jiayao Chen (Shenzhen University)
@@ -42,15 +46,21 @@ If you are looking for research positions, please do not hesitate to contact me 
   
   Shi Liu (Hong Kong University)
 
-  Guanghao Jin (LMU, 26 Fall)
+  Guanghao Jin (LMU 慕尼黑大学, 26 Fall)
 
-  Yanyun Liu (HKUST, 26 Fall)
+  Yanyun Liu (HKUST 港科大, 26Fall)
+
+  Jianming Cai (South China University of Technology 华南理工大学，26Fall; co-supervised with Prof. Yanqing Hu)
 
 - Master Students:
 
   Junhao Ma (SUSTech)
 
-  Lang Yang (South China University of Technology)
+  Lang Yang (South China University of Technology 华南理工大学)
+
+  Jinda Liu (ranked 1st at Jilin University)
+
+  Yiming Zeng (The Dalian University of Technology 大连理工大学)
 
 - Research Assistants:
 
@@ -58,13 +68,17 @@ If you are looking for research positions, please do not hesitate to contact me 
 
   Lam Nguyen (Tsinghua University (Shenzhen))
 
-  Yuhao Wang (NUS)
+  Yuhao Wang (NUS 新加坡国立大学)
 
-  Zhichen Zhao (HKUST)
+  Zhichen Zhao (HKUST 港科大)
 
-  Xinyu Zhou (HKU)
+  Xinyu Zhou (Hong Kong University)
 
-  Hanlin Song (South China University of Technology)
+  Hanlin Song (South China University of Technology 华南理工大学)
+
+  Dawei Wang (Leiden University, Netherlands)
+
+  Shengjie Wang (UCLA)
 
 # Alumni
 
