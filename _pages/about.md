@@ -40,11 +40,11 @@ If you are looking for research positions, please do not hesitate to contact me 
   
 - PhD Students:
   
-  Jiayao Chen (Shenzhen University)
+  Jiayao Chen (Shenzhen University 深圳大学，25Fall)
 
-  Jiayi Fu (Fudan University)
+  Jiayi Fu (Fudan University 复旦大学，25Fall)
   
-  Shi Liu (Hong Kong University)
+  Shi Liu (Hong Kong University 香港大学，25Fall)
 
   Guanghao Jin (LMU 慕尼黑大学, 26 Fall)
 
@@ -54,31 +54,31 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 - Master Students:
 
-  Junhao Ma (SUSTech)
+  Junhao Ma (SUSTech 南科大)
 
   Lang Yang (South China University of Technology 华南理工大学)
 
-  Jinda Liu (ranked 1st at Jilin University)
+  Jinda Liu (Jilin University 吉林大学)
 
   Yiming Zeng (The Dalian University of Technology 大连理工大学)
 
 - Research Assistants:
 
-  Qi Zhang (Oxford University)
+  Qi Zhang (Oxford University 牛津)
 
-  Lam Nguyen (Tsinghua University (Shenzhen))
+  Lam Nguyen (Tsinghua University (Shenzhen) 清华大学（深圳）)
 
   Yuhao Wang (NUS 新加坡国立大学)
 
   Zhichen Zhao (HKUST 港科大)
 
-  Xinyu Zhou (Hong Kong University)
+  Xinyu Zhou (Hong Kong University 香港大学)
 
   Hanlin Song (South China University of Technology 华南理工大学)
 
-  Dawei Wang (Leiden University, Netherlands)
+  Dawei Wang (Leiden University, Netherlands 莱顿大学)
 
-  Shengjie Wang (UCLA)
+  Shengjie Wang (UCLA 加州大学洛杉矶分校)
 
 # Alumni
 
