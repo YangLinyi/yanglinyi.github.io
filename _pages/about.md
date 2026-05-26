@@ -18,9 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCD), and Prof. Yue Zhang (Westlake). I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST with Prof. Jindong Wang and Prof. Qiang Yang. I have published some influential papers at top-tier conferences and have been featured by Huggingface and social media multiple times, with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCD), and Prof. Yue Zhang (Westlake). I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST. I have published several influential papers at top-tier conferences and have been featured by Huggingface and social media multiple times, with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My research interests are building AI co-scientists and designing **open-ended curiosity-driven exploration-based** methods. Previously, I designed the first LLM-based Research-Review-Refinement process by using reinforcement learning, namely CycleResearcher [ICLR, 2025]. I contributed a first-of-its-kind Collaborative Learning of Large and Small Language Models, achieving the state-of-the-art OOD testing results [ICLR, 2024]. Before ChatGPT, I built the first large-scale out-of-distribution natural language understanding dataset, namely GLUE-X [ACL, 2023]. I tried to pre-train a large-scale graph recurrent network, instead of using transformers, achieving the state-of-the-art results, especially in efficiency [TPAMI, 2025] (second author). Currently, I devote myself to **AI for Scientific Discovery**.
+My research interests are building AI co-scientists and designing **open-ended curiosity-driven exploration-based** methods. Previously, I designed the first LLM-based Research-Review-Refinement process by using reinforcement learning, namely CycleResearcher [ICLR, 2025]. The first deep-research-based AI review framework, DeepReview [ACL, 2025]. I contributed a first-of-its-kind Collaborative Learning of Large and Small Language Models, achieving the state-of-the-art OOD testing results [ICLR, 2024]. Before ChatGPT, I built the first large-scale out-of-distribution natural language understanding dataset, namely GLUE-X [ACL, 2023]. I tried to pre-train a large-scale graph recurrent network, instead of using transformers [TPAMI, 2025] (second author). Currently, I devote myself to **AI for Scientific Discovery**.
 
 If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
@@ -36,7 +36,7 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 - Postdoc:
   
-  Abdur Rasool (Shenzhen University -> U.S. postdoc -> SUSTech, co-supervised with Prof. Yanqing Hu)
+  Abdur Rasool (Shenzhen University -> U.S. postdoc -> SUSTech, co-supervise)
   
 - PhD Students:
   
@@ -50,7 +50,7 @@ If you are looking for research positions, please do not hesitate to contact me 
 
   Yanyun Liu (HKUST 港科大, 26Fall)
 
-  Jianming Cai (South China University of Technology 华南理工大学，26Fall; co-supervised with Prof. Yanqing Hu)
+  Jianming Cai (South China University of Technology 华南理工大学，26Fall; co-supervise)
 
 - Master Students:
 
@@ -64,7 +64,7 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 - Research Assistants:
 
-  Qi Zhang (Oxford University 牛津)
+  Qi Zhang (Oxford University 牛津大学)
 
   Lam Nguyen (Tsinghua University (Shenzhen) 清华大学（深圳）)
 
@@ -89,6 +89,7 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 
 # News
+- 2026-May One paper has been accepted to **ICML 2026** and one paper has been accepted to **ICLR 2026**.
 - 2026-Apr Five papers have been accepted to **ACL 2026**.
 - 2026-Jan Contributed to the [AI Evaluation Programme](https://airtable.com/app23z2qQHEzWlWgt/shrdKITZXnjKFgCHg). 
 - 2025-Dec One paper has been accepted to **TASLP** (Multilingual Cultural Evaluation of LLMs).
