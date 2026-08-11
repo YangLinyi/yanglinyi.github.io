@@ -67,10 +67,6 @@ If you are looking for research positions, please do not hesitate to contact me 
 
   Lam Nguyen (Tsinghua University (Shenzhen) 清华大学（深圳）)
 
-  Zhichen Zhao (HKUST 港科大)
-
-  Xinyu Zhou (Hong Kong University 香港大学)
-
   Hanlin Song (South China University of Technology 华南理工大学)
 
   Dawei Wang (Leiden University, Netherlands 莱顿大学)
@@ -82,6 +78,8 @@ If you are looking for research positions, please do not hesitate to contact me 
   Zihan Wang (RA, Admission: **Tsinghua University (Shenzhen)**; Outcome: **ACL Findings*1**)
 
   Jiayi Fu (Admission:  INSAIT, in Sofia, Bulgaria)
+
+  Xinyu Zhou (Hong Kong University 香港大学)
   
   Guanghao Jin (RA)
   
