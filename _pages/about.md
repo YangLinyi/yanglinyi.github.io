@@ -39,21 +39,17 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 - Postdoc:
   
-  Abdur Rasool (Shenzhen University -> U.S. postdoc -> SUSTech, co-supervise)
+  Abdur Rasool (Shenzhen University -> U.S. postdoc -> SUSTech, co-supervised)
   
 - PhD Students:
   
   Jiayao Chen (Shenzhen University 深圳大学，25Fall)
-
-  Jiayi Fu (Fudan University 复旦大学，25Fall)
   
   Shi Liu (Hong Kong University 香港大学，25Fall)
 
-  Guanghao Jin (LMU 慕尼黑大学, 26 Fall)
-
   Yanyun Liu (HKUST 港科大, 26Fall)
 
-  Jianming Cai (South China University of Technology 华南理工大学，26Fall; co-supervise)
+  Jianming Cai (South China University of Technology 华南理工大学，26Fall; co-supervised)
 
 - Master Students:
 
@@ -71,8 +67,6 @@ If you are looking for research positions, please do not hesitate to contact me 
 
   Lam Nguyen (Tsinghua University (Shenzhen) 清华大学（深圳）)
 
-  Yuhao Wang (NUS 新加坡国立大学)
-
   Zhichen Zhao (HKUST 港科大)
 
   Xinyu Zhou (Hong Kong University 香港大学)
@@ -86,6 +80,12 @@ If you are looking for research positions, please do not hesitate to contact me 
 # Alumni
 
   Zihan Wang (RA, Admission: **Tsinghua University (Shenzhen)**; Outcome: **ACL Findings*1**)
+
+  Jiayi Fu (Admission:  INSAIT, in Sofia, Bulgaria)
+  
+  Guanghao Jin (RA)
+  
+  Yuhao Wang (RA)
 
 # Repository
 [ **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
