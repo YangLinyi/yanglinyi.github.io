@@ -92,16 +92,17 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 
 # News
+- 2026-Aug One paper has been accepted to **COLM 2026**.
 - 2026-May One paper has been accepted to **ICML 2026** and one paper has been accepted to **ICLR 2026**.
 - 2026-Apr Five papers have been accepted to **ACL 2026**.
 - 2026-Jan Contributed to the [AI Evaluation Programme](https://airtable.com/app23z2qQHEzWlWgt/shrdKITZXnjKFgCHg). 
 - 2025-Dec One paper has been accepted to **TASLP** (Multilingual Cultural Evaluation of LLMs).
 - 2025-Nov Served as the **Best Paper Committee Chair** at [ICAIS 2025](https://icais.ai/).
-- 2025-Sep **Three papers** have been accepted to [NeurIPS 2025](https://neurips.cc/).
-- 2025-Aug **Two papers** have been accepted to [EMNLP 2025](https://2025.emnlp.org/).
+- 2025-Sep Three papers have been accepted to [NeurIPS 2025](https://neurips.cc/).
+- 2025-Aug Two papers have been accepted to [EMNLP 2025](https://2025.emnlp.org/).
 - 2025-Aug We released **Memento**, the open-source framework that achieves the state-of-the-art results on **GAIA**.
 - 2025-Jul Feature-level alignment (FPO) has been accepted to [ICML 2025](https://icml.cc/virtual/2025/poster/46128).
-- 2025-Jan **Six papers** have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper.
+- 2025-Jan Six papers have been accepted to the main conference of [ICLR 2025](https://iclr.cc/), including an **oral** paper.
 - 2024-Dec I served as an **Area Chair** at ACL 2025 and ICLR 2025.
 - 2024-Nov We gave the tutorial on LLM Evaluation at **AAAI 2024** and **CVPR 2025**.
 - 2024-Oct I have been invited to give a 6-hour tutorial at **RL China 2024**.
@@ -109,8 +110,8 @@ If you are looking for research positions, please do not hesitate to contact me 
 - 2024-Feb One paper has been accepted to [NAACL 2024](https://2024.naacl.org/) (Rationale-centric Counterfactual Data Augmentation).
 - 2024-Jan Three papers (**SuperContext**, FastDetect, and PandaLM) have been accepted to [ICLR 2024](https://iclr.cc/).
 - 2023-Dec One paper has been accepted to [EMNLP 2023](https://2023.emnlp.org/).
-- 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Model with Dr. Jindong Wang and Prof. Qiang Yang.
-- 2023-May Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three leading author papers).
+- 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Models with Dr. Jindong Wang and Prof. Qiang Yang.
+- 2023-May Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three leading-author papers).
 - 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 - Area Chair / Senior Programme Committee (SPC): EMNLP-22; CIKM-22; IJCAI-23; ACL-25.
 - PC Member/Reviewer: CIKM-20; SIGIR-21; CKIM-21; EMNLP 2021-2024; ACL 2021-2024; COLING 2022-2024; TASLP; TALLIP; TBD; TKDE.
