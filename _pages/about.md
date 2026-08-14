@@ -76,13 +76,13 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 # Alumni
 
-  Zihan Wang (RA, Admission: **Tsinghua University (Shenzhen)**; Outcome: **ACL Findings*1**)
+  Zihan Wang (RA, Admission: Tsinghua University (Shenzhen); Outcome: **ACL Findings*1**)
 
-  Xinyu Zhou (Admission: Hong Kong University 香港大学; Outcome: **NeurIPS Submission*1**)
+  Xinyu Zhou (RA, Admission: Hong Kong University; Outcome: **NeurIPS Submission*1**)
   
-  Guanghao Jin (RA; Outcome: **ACL Findings*1**)
+  Guanghao Jin (RA, Outcome: **ACL Findings*1**)
   
-  Yuhao Wang (RA; Outcome: **ICML*1**)
+  Yuhao Wang (RA, Outcome: **ICML*1**)
 
   Jiayi Fu (Admission: INSAIT, in Sofia, Bulgaria)
 
