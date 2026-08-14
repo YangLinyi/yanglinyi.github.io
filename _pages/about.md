@@ -20,16 +20,17 @@ redirect_from:
 
 I was fortunate to be supervised by Prof. Jun Wang (UCL), Prof. Barry Smyth (UCD), and Prof. Yue Zhang (Westlake). I served as an **Area Chair** at ICLR, ACL, EMNLP, and CIKM, a **Senior Program Committee** member at IJCAI, and an **Associate Editor** at the Special Issue on TIST. I have published several influential papers at top-tier conferences and have been featured by Huggingface and social media multiple times, with a total citation: <a href='https://scholar.google.com/citations?user=go3sFxcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My research interests are building AI co-scientists and designing **open-ended curiosity-driven exploration-based** methods. Previously, I designed the first LLM-based Research-Review-Refinement process by using reinforcement learning, namely CycleResearcher [ICLR, 2025]. The first deep-research-based AI review framework, DeepReview [ACL, 2025]. I contributed a first-of-its-kind Collaborative Learning of Large and Small Language Models, achieving the state-of-the-art OOD testing results [ICLR, 2024]. Before ChatGPT, I built the first large-scale out-of-distribution natural language understanding dataset, namely GLUE-X [ACL, 2023]. I tried to pre-train a large-scale graph recurrent network, instead of using transformers [TPAMI, 2025] (second author). Currently, I devote myself to **AI for Scientific Discovery**.
+My research interests are building AI co-scientists and designing **open-ended curiosity-driven exploration-based** methods. Previously, I designed the first LLM-based Research-Review-Refinement process by using reinforcement learning, namely CycleResearcher [ICLR, 2025]. The first deep-research-based AI review framework, DeepReview [ACL, 2025]. I contributed a first-of-its-kind Collaborative Learning of Large and Small Language Models, achieving state-of-the-art OOD testing results [ICLR, 2024]. Before ChatGPT, I built the first large-scale out-of-distribution natural language understanding dataset, namely GLUE-X [ACL, 2023]. I tried to pre-train a large-scale graph recurrent network, instead of using transformers [TPAMI, 2025] (second author). Currently, I devote myself to **AI for Scientific Discovery**.
 
 If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
 # 🏆 Honors and Awards
-- Excited to accept the invitation to be a **Founding Editorial Board Member** at the AI4S Journal! 
-- Invited to serve as an Area Chair at: **NeurIPS 2026; ICLR 2026; ICML 2026; ACL 2026; AAAI 2026; EMNLP 2026** 
+- Invited to serve as an Area Chair at: **ICLR 2027**. 
+- Excited to accept the invitation to be a **Founding Editorial Board Member** at the AI4S Journal.
+- Invited to serve as an Area Chair at: **NeurIPS 2026; ICLR 2026; ICML 2026; ACL 2026; AAAI 2026; EMNLP 2026**. 
 - Faculty and lecturer at the International Programme on [AI Evaluation](https://ai-evaluation.org): Capabilities & Safety
 - Associate Editor: TIST.
-- Area Chair: **ICLR 2025; ACL 2024-2025; EMNLP 2023; IJCAI 2023 (SPC); CIKM 2022**;  
+- Area Chair: **ICLR 2025; ACL 2024-2025; EMNLP 2023; IJCAI 2023 (SPC); CIKM 2022**. 
 - Outstanding Postdoctoral Representative, 2023.
 - Outstanding Postdoc Researcher, 2022.
 - Outstanding Self-financed Students Abroad (Special Awards, Only 1 Winner in Ireland, 50 Winners in total), 2021.
@@ -51,7 +52,7 @@ If you are looking for research positions, please do not hesitate to contact me 
 
   Jianming Cai (South China University of Technology 华南理工大学，26Fall; co-supervised)
 
-- Master Students:
+- MSC Students:
 
   Junhao Ma (SUSTech 南科大)
 
@@ -77,13 +78,13 @@ If you are looking for research positions, please do not hesitate to contact me 
 
   Zihan Wang (RA, Admission: **Tsinghua University (Shenzhen)**; Outcome: **ACL Findings*1**)
 
-  Jiayi Fu (Admission:  INSAIT, in Sofia, Bulgaria)
+  Xinyu Zhou (Admission: Hong Kong University 香港大学; Outcome: **NeurIPS Submission*1**)
+  
+  Guanghao Jin (RA; Outcome: **ACL Findings*1**)
+  
+  Yuhao Wang (RA; Outcome: **ICML*1**)
 
-  Xinyu Zhou (Hong Kong University 香港大学)
-  
-  Guanghao Jin (RA)
-  
-  Yuhao Wang (RA)
+  Jiayi Fu (Admission: INSAIT, in Sofia, Bulgaria)
 
 # Repository
 [ **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
