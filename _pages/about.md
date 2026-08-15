@@ -25,7 +25,7 @@ My research interests are building AI co-scientists and designing **open-ended c
 If you are looking for research positions, please do not hesitate to contact me via email: yanglinyiucd[at]gmail[dot]com  
 
 # 🏆 Honors and Awards
-- Invited to serve as an Area Chair at: **ICLR 2027**. 
+- Invited to serve as an Area Chair at: **ICLR 2027; AAAI 2027**. 
 - Excited to accept the invitation to be a **Founding Editorial Board Member** at the AI4S Journal.
 - Invited to serve as an Area Chair at: **NeurIPS 2026; ICLR 2026; ICML 2026; ACL 2026; AAAI 2026; EMNLP 2026**. 
 - Faculty and lecturer at the International Programme on [AI Evaluation](https://ai-evaluation.org): Capabilities & Safety
