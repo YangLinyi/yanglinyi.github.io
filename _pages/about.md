@@ -28,7 +28,7 @@ If you are looking for research positions, please do not hesitate to contact me 
 - Invited to serve as an Area Chair at: **ICLR 2027; AAAI 2027**. 
 - Excited to accept the invitation to be a **Founding Editorial Board Member** at the AI4S Journal.
 - Invited to serve as an Area Chair at: **NeurIPS 2026; ICLR 2026; ICML 2026; ACL 2026; AAAI 2026; EMNLP 2026**. 
-- Faculty and lecturer at the International Programme on [AI Evaluation](https://ai-evaluation.org): Capabilities & Safety
+- Faculty and lecturer at the International Programme on [AI Evaluation: Capabilities & Safety](https://ai-evaluation.org)
 - Associate Editor: TIST.
 - Area Chair: **ICLR 2025; ACL 2024-2025; EMNLP 2023; IJCAI 2023 (SPC); CIKM 2022**. 
 - Outstanding Postdoctoral Representative, 2023.
@@ -87,7 +87,7 @@ If you are looking for research positions, please do not hesitate to contact me 
   Jiayi Fu (Admission: INSAIT, in Sofia, Bulgaria)
 
 # Repository
-[ **[AgentFly](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
+[ **[Memento](https://github.com/Agent-on-the-Fly/Memento)** ![](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento?style=social&label=Stars) | **[OpenR](https://github.com/openreasoner/openr)** ![](https://img.shields.io/github/stars/openreasoner/openr?style=social&label=Stars) | **[CycleResearcher](https://github.com/zhu-minjun/Researcher)** ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social&label=Stars) | **[LLM-Eval](https://github.com/MLGroupJLU/LLM-eval-survey)** ![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Stars)]
 
 
 # News
@@ -110,11 +110,8 @@ If you are looking for research positions, please do not hesitate to contact me 
 - 2024-Jan Three papers (**SuperContext**, FastDetect, and PandaLM) have been accepted to [ICLR 2024](https://iclr.cc/).
 - 2023-Dec One paper has been accepted to [EMNLP 2023](https://2023.emnlp.org/).
 - 2023-Nov Organized ACM TIST Special Issue on Evaluations of Large Language Models with Dr. Jindong Wang and Prof. Qiang Yang.
-- 2023-May Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three leading-author papers).
-- 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
-- Area Chair / Senior Programme Committee (SPC): EMNLP-22; CIKM-22; IJCAI-23; ACL-25.
-- PC Member/Reviewer: CIKM-20; SIGIR-21; CKIM-21; EMNLP 2021-2024; ACL 2021-2024; COLING 2022-2024; TASLP; TALLIP; TBD; TKDE.
-
+- 2023-May Four papers have been accepted to [ACL 2023](https://2023.aclweb.org/) (Three lead-author papers).
+- 2023-Apr Our paper discussing the robustness of ChatGPT has been accepted to the [ICLR 2023](https://arxiv.org/abs/2302.12095) Workshop.
 
 # 📝 Publications
 
