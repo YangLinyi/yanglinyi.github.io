@@ -118,6 +118,8 @@ If you are looking for research positions, please do not hesitate to contact me 
 ___* denotes equal contribution___
 ___+ denotes corresponding author___
 
+- Publications in 2026 will be updated later ...
+
 - (45) Constrain Alignment with Sparse Autoencoders
 
   Qingyu Yin, Chak Tou Leong, Hongbo Zhang, Minjun Zhu, Hanqi Yan, Qiang Zhang, Yulan He, Wenjie Li, Jun Wang, Yue Zhang, **Linyi Yang**
@@ -332,8 +334,8 @@ ___+ denotes corresponding author___
 
   **Linyi Yang**, Tin Lok James Ng, Barry Smyth, Ruihai Dong.
   
-  This paper proposes a novel hierarchical, transformer, multi-task architecture to harness the text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020 (Oral), CCF-A``</font>).
-  
+  This paper proposes a novel hierarchical, transformer-based, multi-task architecture to harness text and audio data from quarterly earnings conference calls to predict future price volatility. (<font color=Blue>``WWW 2020 (Oral), CCF-A``</font>).
+- (1-10): Check [Google Scholar](https://scholar.google.com/citations?user=go3sFxcAAAAJ&hl=en)
 # 🎤 Invited Talks
 - Shanghai Chuangzhi Lab, Shanghai, Sep. 2025
 - Shanghai Jiaotong University, Shanghai, Sep. 2025
