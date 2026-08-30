@@ -91,6 +91,7 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 
 # News
+- 2026-Aug Four papers have been accepted to **EMNLP 2026**.
 - 2026-Aug One paper has been accepted to **COLM 2026**.
 - 2026-May One paper has been accepted to **ICML 2026** and one paper has been accepted to **ICLR 2026**.
 - 2026-Apr Five papers have been accepted to **ACL 2026**.
