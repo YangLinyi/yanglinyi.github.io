@@ -72,8 +72,6 @@ If you are looking for research positions, please do not hesitate to contact me 
 
   Dawei Wang (Leiden University, Netherlands 莱顿大学)
 
-  Shengjie Wang (UCLA 加州大学洛杉矶分校)
-
 # Alumni
 
   Zihan Wang (RA, Admission: Tsinghua University (Shenzhen); Outcome: **ACL Findings*1**)
