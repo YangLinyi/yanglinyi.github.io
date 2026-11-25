@@ -64,7 +64,7 @@ If you are looking for research positions, please do not hesitate to contact me 
 
 - Research Assistants:
 
-  Qi Zhang (Oxford University 牛津大学)
+  Dingying Liu (Sydney University 多伦多大学/悉尼大学)
 
   Lam Nguyen (Tsinghua University (Shenzhen) 清华大学（深圳）)
 
@@ -81,6 +81,8 @@ If you are looking for research positions, please do not hesitate to contact me 
   Guanghao Jin (RA, Outcome: **ACL Findings*1**)
   
   Yuhao Wang (RA, Outcome: **ICML*1**)
+  
+  Qi Zhang (RA, Admission: Oxford University 牛津大学)
 
   Jiayi Fu (Admission: INSAIT, in Sofia, Bulgaria)
 
